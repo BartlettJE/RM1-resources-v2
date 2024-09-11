@@ -6,17 +6,17 @@ source(file = "include/deadlines.R")
 
 ## General information
 
-- The group stage one report sets out the introduction (background research, rationale for your study) and planned methods. The general topic for your report is on self-regulated learning. 
+The group stage one report sets out the introduction (background research, rationale for your study, and your hypothesis where applicable) and planned methods. The general topic for your report is on self-regulated learning. 
 
 - The deadline is **`r stage1_due`**.
 
-- This assessment is worth 30% of your final course grade and will be a group mark.
+- This assessment is worth 30% of your final course grade and will be a group mark. Everyone in your group will receive the same grade and feedback. 
 
 - **One member** of your group should submit your complete stage one submission template to Moodle. This will consist of an introduction and method section that would make up a stage one registered report submission prior to collecting data. 
 
-- In this course, you will not be collecting data yourself, but we will release a large secondary data set to you to apply your planned analyses to for the final individual stage two submission. For further information on the individual stage two report, please refer to the [Assessment Information Sheet](#stage2-AIS). 
+- In this course, you will not be collecting data yourself, but we will release a large secondary data set for you to apply your planned analyses to for the final individual stage two submission. For further information on the individual stage two report, please refer to the [Assessment Information Sheet](#stage2-AIS). 
 
-- You should submit a single Word document (.docx) to Moodle prior to the deadline. The submission link will open at least one week prior to the deadline and will be in the Assignment Submission section of Moodle.
+- You should submit a single Word document (.docx) to Moodle prior to the deadline. The submission link will open at least one week prior to the deadline and will be in the "Assessment: Stage One Group and Stage Two Individual Reports" tab on Moodle.
 
 - As a formative task and to outline ground rules for working in your group, you will complete and submit a [group work agreement](#groupagreement-AIS). We will introduce this document to you in week 2 when you will know your group allocation, but it will involve agreeing to how you will work in and contribute to your group. This will help to plan your assignment and recognise how people may work and interact differently. 
 
@@ -34,9 +34,9 @@ source(file = "include/deadlines.R")
  
 ## Type of assessment/structure
 
-- The stage one group report is modeled on the first half of a [registered report](https://www.cos.io/initiatives/registered-reports). This is a relatively new type of journal article where the research background, rationale, and planned methods are peer-reviewed prior to conducting a study. Instead of peer-review, your group work will be marked as an assessment. 
+- The stage one group report is modeled on the first half of a [registered report](https://www.cos.io/initiatives/registered-reports). This is a relatively new type of journal article where the research background, rationale, hypothesis, and planned methods are peer-reviewed prior to conducting a study. Instead of peer-review, your group work will be marked as an assessment. 
 
-- Your stage one group report will include an introduction and method section, plus references (and appendices if relevant). You will receive a template outlining the key sections and sub-sections as part of the course. 
+- Your stage one group report will include an introduction and method section, plus references and appendices (where relevant). You will receive a template outlining the key sections and sub-sections to help with formatting. 
 
 ## Assessment Criteria
 
@@ -60,9 +60,9 @@ source(file = "include/deadlines.R")
 
 - Guidance on how to complete the stage one group report will form part of the weekly course activities, such as content covered in the lectures and activities in the labs. 
 
-- The assumptions of correlations and t-tests and how to choose which type of test is covered in the lectures and associated reading, such as the relevant sections of the PsyTeachR Fundamentals of Quantitative Analysis book.
+- We cover the assumptions of simple linear regression (and relatedly, correlations and t-tests) and how to match your statistical model to your design and research question in the lectures and associated reading, such as the relevant sections of the PsyTeachR [Fundamentals of Quantitative Analysis](https://bartlettje.github.io/quant-fun-v3/){target="_blank"} book.
 
-- Further information about assessment criteria and feedback can be found in the [Feedback Information Sheet](#stage1-FIS) section.
+- Further information about assessment criteria and feedback can be found in the [Feedback Information Sheet](#stage1-FIS) section below.
 
 - You can find additional writing and study advice, including 1-to-1 guidance on the [Student Learning Development (SLD) website](https://www.gla.ac.uk/myglasgow/sld/).
 
@@ -70,7 +70,7 @@ source(file = "include/deadlines.R")
 
 - Meet each of the assessment criteria - use these as a checklist for your work.
 
-- Allow time to proof-read your work before submission.
+- Allow time for one or two members of your group to proof-read your work before submission.
 
 - Complete all relevant sections and sub-sections of the stage one template to structure your submission.
 
@@ -92,19 +92,21 @@ source(file = "include/deadlines.R")
 
 ## How is the assessment related to the lectures for this course?
 
-The stage one report allows you the opportunity to apply many of the concepts you have learned in the available material by collating and synthesising research, and making analytical decisions based upon your knowledge of statistics and research design.
+The stage one report provides you the opportunity to apply many of the concepts you have learned in the course materials by collating and synthesising research, and planning your analysis approach based on your research question and planned design.
 
 ## Why am I being assessed like this?
 
-- Registered reports are becoming increasingly common in psychological research and it is a process that will serve you well should you continue with research as it demonstrates a commitment to open and reproducible science.
+- Registered reports are increasingly common in psychological research and it is a process that will serve you well should you continue with research as it demonstrates a commitment to open and reproducible science.
 
 - The stage one report allows you to think through the background and rationale of your research question, and your planned methods and analyses prior to completing the individual stage two report.
 
 - The stage one report is a group submission to reflect the fact that in most research, these decisions will be made as a team and it allows you to pool your collective knowledge to design the best study possible.
 
+- We follow a scaffolded approach to develop your understanding of writing research reports across the programme. In RM1, you write the introduction and method sections in a group. You then write the results and discussion individually. In RM2 and your dissertation, you work up to writing the full report and dissertation individually. 
+
 ## How does this relate to previous work I have completed?
 
-- You can gain informal feedback by talking to your lab tutor, lecturers, and/or by attending student office hours.
+- You can gain informal feedback by talking to your lab tutors, lecturers, and/or by attending student office hours.
 
 - Feedback on any previous written assignment will help with academic communication and using evidence to support your arguments.
 
@@ -130,7 +132,7 @@ To support you in understanding what plagiarism is and in avoiding it, please re
 
 ### What type of feedback will I receive for this assessment?
 
-You will receive feedback on your attainment of the overall marking criteria (Knowledge and Research, Critical Evaluation, Academic Communication) in terms of the verbal descriptors from Schedule A and feedforward comments as to how to develop your knowledge and skills for future assignments.
+You will receive feedback on your attainment of the overall marking criteria (Knowledge and Research, Critical Evaluation, Academic Communication) in terms of the verbal descriptors from Schedule A and feed forward comments as to how to develop your knowledge and skills for future assignments.
 
 Assessments are graded on the 22-point scale using the Schedule A marking criteria. There are three equally weighted Assessment Criteria (Knowledge and Research, Critical Evaluation, Academic Communication). You can find out more about Schedule A by [downloading this PDF](https://www.gla.ac.uk/media/Media_541792_smxx.pdf) but the important thing to help you interpret your feedback is the use of the verbal descriptors, i.e., the words like “excellent” and “good” used to describe different grades. You should look out for these words to help you understand how you performed on each ILO.
 

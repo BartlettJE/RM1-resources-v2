@@ -6,11 +6,13 @@ source(file = "include/deadlines.R")
 
 ## General information
 
-- You are required to answer a set of multiple-choice questions that relate to the course content for RM1 covered in weeks 1-4. This includes lectures, data skills, labs and academic writing tutorials. 
+You must answer a set of multiple-choice questions that relate to the course content covered in weeks 1-4. This includes lectures, data skills, labs, and academic writing tutorials. 
 
 - In total, this assessment is worth 5% of your final course grade. 
 
-- The deadline for submitting the MCQ is **`r MCQ_due`**.
+- The deadline for submitting the MCQ is **`r MCQ_due`**. 
+
+- The quiz will open one week prior to the deadline, so you can complete the quiz in your own time. However, you must start and finish the quiz in one sitting. Once you start, you **must** finish. 
 
 ## How to do well in this assessment
 
@@ -29,6 +31,8 @@ source(file = "include/deadlines.R")
 ## Why am I being assessed like this?
 
 - Testing your knowledge of the course content helps you actively engage with the material, meaning you will learn more.
+
+- Distributed practice is important for learning, so have a few low-stakes assessments early in the course to encourage you to keep up with the content, while being low weighted to reduce the pressure on your overall course grade.
 
 - Engaging with the material on the course will help build a strong foundation for the rest of the RM1 course and your subsequent assessments. 
 
@@ -58,8 +62,8 @@ The MCQ has 22 questions with each question being worth 1 point. Your grade will
 
 ### What type of feedback will I receive for this assessment?
 
-Once the quiz has closed for all students, you will be able to see which questions you got right and wrong, and what was the correct answer in addition to your overall grade. 
+Once the quiz has closed for all students, you will be able to see which questions you got right and wrong, what the correct answer was, and your overall grade. 
 
 ### Who assessed my work?
 
-The MCQ is scored automatically within Moodle. An experienced member of staff created the quiz and it was proof read by another member of staff to ensure the scoring is accurate. 
+The MCQ is scored automatically within Moodle. The course leads created and proof read the quiz to ensure the scoring is accurate. 

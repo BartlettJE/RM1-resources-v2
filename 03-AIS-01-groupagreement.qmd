@@ -124,11 +124,11 @@ Below are some guidelines to organise and manage your group project for the stag
 
 **Language**: Many/most students in this programme are studying in their second, third, or even fourth language. Consider the challenges you might experience if you were studying beyond your first language and be mindful of making implicit judgements about someone’s writing or communication.
 
-**Timing/working patterns**: Be mindful that everyone’s life balance and commitments are different. Some people prefer studying during traditional working hours, some in the evenings, and others on weekends. Communicate your preferences openly and as a group be as flexible and accommodating as you can. Can the times/days of meetings be flexible if this helps everyone contribute and feel engaged?
+**Timing/working patterns**: Be mindful that everyone’s work/life balance and commitments are different. Some people prefer studying during traditional working hours, some in the evenings, and others on weekends. Communicate your preferences openly and as a group be as flexible and accommodating as you can. Can the times/days of meetings be flexible if this helps everyone contribute and feel engaged?
 
 **Technology**: The technology/platforms we recommend might not be your favourites, but we recommend them for a reason. These are things we can directly support, and they are the things that we make sure all students in different countries can access. Using some apps/tools can explicitly exclude some members that want to engage and contribute.
 
-**Neurodiversity**: Different people work and think in different ways. If someone discloses that they find particular things challenging, or that they are at their best with a particular type of task or activity, consider how you can support/reflect this in the allocation of roles and tasks. Everyone works best in a positive strengths-based environment!
+**Neurodiversity**: Different people work and think in different ways. If someone discloses that they find particular things challenging, or that they are at their best with a particular type of task or activity, consider how you can support/reflect this in the allocation of roles and tasks.
 
 ### Supporting self-efficacy/group dynamics
 
@@ -136,7 +136,7 @@ Below are some guidelines to organise and manage your group project for the stag
 
 **Positivity**: Try to maintain a positive tone about the project, even if you find it challenging. There is a fine line between having a little vent/catharsis and creating an atmosphere of toxic negativity. Some team members might take this to heart more than others and become dispirited about the activity, their abilities, and the completion of the task. If you are feeling frustrated or finding a particular thing challenging, talk to your group and consider seeking advice or support from the teaching team.
 
-**Imposter syndrome**: Everyone gets this! It does not matter how we might be coping, sometimes it is impossible to avoid feeling like you or your work might not be good enough. If you are anxious about sharing something with your group, seek feedback from someone you trust first for their advice. Do not be afraid to make mistakes. Think about your shared documents as ‘working drafts’. Do not think you have to be anything other than who you are with your group. The pressure of thinking you must pretend to be a “model” student or meet the perceived expectations of others can get in the way of your being able to contribute your unique skills and experience.
+**Imposter syndrome**: It does not matter how we might be coping, sometimes it is impossible to avoid feeling like you or your work might not be good enough. If you are anxious about sharing something with your group, seek feedback from someone you trust first for their advice. Do not be afraid to make mistakes. Think about your shared documents as ‘working drafts’. Do not think you have to be anything other than who you are with your group. The pressure of thinking you must pretend to be a “model” student or meet the perceived expectations of others can get in the way of your being able to contribute your unique skills and experience.
 
 ## Stage one group work task sharing advice {#stageone-planning}
 
@@ -176,7 +176,9 @@ For example, you might separate the tasks as:
 
 - **Method design and data analysis**: Sarune and Wil will lead on this section. 
 
-You might choose to separate the tasks differently, but this is one suggestion to work through. For this separation or another approach you agree in your group, question what you know, what you still need to think about, and how you will fill in the blanks:
+You might choose to separate the tasks differently, but this is one suggestion to work through. We support this [the Planner template for the stage one group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"}, so we recommend at least starting with this plan and allocate roles, and then adapt as you need. 
+
+For this separation or another approach you agree in your group, question what you know, what you still need to think about, and how you will fill in the blanks:
 
 **Introduction literature review**
 
@@ -240,4 +242,4 @@ You might choose to separate the tasks differently, but this is one suggestion t
 
 - Method design and data analysis:
 
-You can either copy and adapt these questions to work on in your own document, or [download this template](Supporting/Stage One Report Task Sharing.docx) to structure your group discussions. 
+You can either copy and adapt these questions to work on in your own document, copy [the Planner template](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"} to your own Microsoft University account, or [download this template](Supporting/Stage One Report Task Sharing.docx) to structure your group discussions. 

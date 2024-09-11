@@ -55,10 +55,10 @@ book:
   - part: 03-AIS-00.qmd
     chapters:
       - 03-AIS-01-groupagreement.qmd
-      - 03-AIS-04-MCQ.qmd
-      - 03-AIS-05-dataskills.qmd
-      - 03-AIS-02-stage1.qmd
-      - 03-AIS-03-stage2.qmd
+      - 03-AIS-02-MCQ.qmd
+      - 03-AIS-03-dataskills.qmd
+      - 03-AIS-04-stage1.qmd
+      - 03-AIS-05-stage2.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
