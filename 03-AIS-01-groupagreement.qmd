@@ -6,21 +6,21 @@ source(file = "include/deadlines.R")
 
 ## General information
 
-- We use the group work agreement to outline how you and your group will work and communicate with each other, and ensure you are engaging in the group work process for the [stage one group report](#stage1-AIS). Groups typically experience problems when communication and task responsibilities are built on unspoken assumptions. As you probably do not know the people in your group when we make the allocations, we start the project by facilitating a discussion with you and your group so you can openly outline how you will communicate, [respect diversity](#group-work-advice), and [split tasks](#stageone-planning). 
+We use the group work agreement to outline how you and your group will work and communicate with each other, and ensure you are engaging in the group work process for the [stage one group report](#stage1-AIS). Groups typically experience problems when communication and task responsibilities are built on unspoken assumptions. As you probably do not know the people in your group when we make the allocations, we start the project by facilitating a discussion with you and your group so you can openly outline how you will communicate, [respect diversity](#group-work-advice), and [split tasks](#stageone-planning). 
 
-- This is a formative task and is **not** part of the summative assessment for the course, but everyone must complete the task. We use the group work agreement as a way of identifying engagement and potential problems as early as possible. The course or programme leads will contact students who **do not** submit their group work agreement. 
+- This is a formative task and is **not** part of the summative assessment for the course, but everyone **must** complete the task. We use the group work agreement as a way of identifying engagement and potential problems as early as possible. The course or programme leads will contact students who **do not** submit their group work agreement and students will potentially be placed on an individual submission if they do not engage with their groups. 
 
-- The deadline is **`r groupagreement_due`**.
+- The deadline is **`r groupagreement_due`**, where everyone in the group must submit an individual signed copy of the agreement you worked on.
 
 - Although you will agree on the document as a group, each group member must then **individually** sign (electronic or a printed name, you do not need to physically sign it) and upload a copy to the submission portal. 
 
-- You should submit a single Word document (.docx) or PDF document to Moodle prior to the deadline. The submission link is open from when the group allocations are available in week 2. You can find the submission portal in the **Group Allocations, Resources, and Agreement Submission** tab. 
+- You should submit a single Word document (.docx) or PDF document to Moodle prior to the deadline. The submission link is open from when the group allocations are available in week 2. You can find the submission portal in the **Formative: Allocations and group work agreement submission** tab. 
 
 ## Group agreement items
 
-The group work agreement template (available for download in the RM1 Moodle Group Allocations, Resources, and Agreement Submission tab) contains five points that we have set, but you may add any additional points that the group agrees.
+The group work agreement template (available for download in the RM1 Formative: Allocations and group work agreement submission tab) contains five points that we have set, but you may add any additional points that the group agrees.
 
-The mandatory points are: 
+The **mandatory** points are: 
 
 1. As a student of the University of Glasgow, I will treat all members of my group with dignity and respect.
 
@@ -56,13 +56,13 @@ In addition, there may be other elements of group work that you and your group w
 
 Below are some guidelines to organise and manage your group project for the stage one report. You are welcome to adapt some of these guidelines to suit your group and the nature of the project. However, in the event we need to mediate difficulties, this will involve you providing evidence as record/evidence of collaboration (or lack thereof). Please be mindful of this when conducting your project.
 
-**Set up your group Teams chat/channel and a Planner for your group**
+**Set up your group Teams chat/channel and a Microsoft Planner for your group**
 
 - DO: Create a Teams chat for communication with your group.
 
-- DO: Create a Planner with all members of your group.
+- DO: Create a Microsoft Planner with all members of your group to assign individual tasks (we recommend copying [this Planner template for the stage one group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"} we have created. Please copy the Planner, do not edit it.).
 
-- DON’T: Use WhatsApp, Facebook or WeChat etc. to coordinate your project as it that excludes people who cannot access this technology in some countries.
+- DON’T: Use WhatsApp, Facebook or WeChat etc. to coordinate your project as that excludes people who cannot access this technology in some countries.
 
 **Coordinate work schedules/calendars**
 
@@ -70,7 +70,7 @@ Below are some guidelines to organise and manage your group project for the stag
 
 - DO: Schedule a regular ‘check-in’ time. This does not need to be a live meeting but stay connected regularly.
 
-- DON’T: Commit to meetings/time frames that will not work for your time table or work schedule. 
+- DON’T: Commit to meetings/time frames that will not work for your timetable or work schedule. 
 
 **Agree on document collaboration platforms**
 
@@ -78,25 +78,25 @@ Below are some guidelines to organise and manage your group project for the stag
 
 - DO: Use track changes and comments on shared documents.
 
-- DO: Think about a shared Zotero, EndNote, or similar library to organise references/papers.
+- DO: Think about a shared Zotero, EndNote, or similar reference manager to organise papers.
 
 **Work back from the deadline to create milestones**
 
 - DO: Be mindful of your work/life balance and upcoming busy periods.
 
-- DO: Agree on specific dates to complete your responsibilites.
+- DO: Agree on specific dates to complete your responsibilities.
 
 - DON’T: Leave things to the last minute.
 
 **Determine strengths and assign roles**
 
-- DO: Consult the [Stage one group work planning advice section above](#stageone-planning) to identify the strengths/preferences of your team.
+- DO: Consult the [Stage one group work planning advice section below](#stageone-planning) to identify the strengths/preferences of your team.
 
 **Assign tasks/milestones to roles** 
 
-- DO: Attach names and dates to tasks and assign milestones.
+- DO: Attach names and dates to tasks and assign milestones using the Microsoft Planner template.
 
-- DO: Reassign tasks/adjust deadlines if you need as the project progresses.
+- DO: Reassign tasks/adjust deadlines as the project progresses if you need to.
 
 - DON’T: Assign time-sensitive roles that might clash with someone’s known upcoming commitments.
 
@@ -104,7 +104,7 @@ Below are some guidelines to organise and manage your group project for the stag
 
 - DO: Check-in regularly.
 
-- DO: Agree to action points at the end of meetings and put these in writing (e.g., in a wiki/to-do list).
+- DO: Agree to action points at the end of meetings and put these in writing (e.g., in a shared document / to-do list).
 
 - DO: Let your group know if you are struggling with a task/milestone.
 
@@ -114,7 +114,7 @@ Below are some guidelines to organise and manage your group project for the stag
 
 **Submit your Assessment**
 
-- DO: Assign one person to prepare and submit the final documents when everyone has approved them. Remember to turn off track changes.
+- DO: Assign **one** person to prepare and submit the final documents when everyone has approved them. Remember to turn off track changes.
 
 - DO: Give yourself time to look at the Turnitin Report.
 
