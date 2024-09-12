@@ -6,13 +6,13 @@ source(file = "include/deadlines.R")
 
 ## General information 
 
-- The stage two individual report builds on your stage one group report, but this time you report your abstract, results, and discussion. The general topic for your report is still on self-regulated learning. 
+The stage two individual report builds on your stage one group report, but this time you individually report your abstract, results, and discussion. The general topic for your report is still on self-regulated learning. 
 
 - The deadline is **`r stage2_due`**.
 
 - This assessment is worth 50% of your final course grade. 
 
-- You should submit a single Word document (.docx) to Moodle prior to the deadline. The submission link will open at least one week prior to the deadline and will be in the Assignment Submission section of Moodle.
+- You should submit a single Word document (.docx) to Moodle prior to the deadline. The submission link will open at least one week prior to the deadline and will be in the **Assessment: Stage One Group and Stage Two Individual Reports** section of Moodle.
 
 ## Word count and formatting
 
@@ -30,7 +30,7 @@ source(file = "include/deadlines.R")
 
 - The stage two group report is modeled on the second half of a [registered report](https://www.cos.io/initiatives/registered-reports). When a research team has their stage one submission approved, they go out and collect data, then write up their results and discussion. You are working with secondary data, so you will not collect any data, but you are putting your stage one plan in action and justifying any deviations from your plan.  
 
-- Your stage two individual report will include an abstract, results, and discussion section, plus references (and appendices if relevant). You will receive a template outlining the key sections and as part of the course. 
+- Your stage two individual report will include an abstract, results, and discussion section. You will also have a reference list, the generative AI Appendix item includes as part of the title page, plus any additional appendix items where necessary. You will receive a template outlining the key sections as part of the course. 
 
 ## Assessment Criteria
 
@@ -38,7 +38,7 @@ source(file = "include/deadlines.R")
 
     - Demonstrate theoretical knowledge by providing a detailed evidence-based understanding of the topic of the report.
 
-    - Demonstrate technical knowledge by correctly reporting and interpreting the results
+    - Demonstrate technical knowledge by correctly reporting and interpreting the results.
 
 - Quality of the Evaluation
 
@@ -74,11 +74,11 @@ source(file = "include/deadlines.R")
 
 - Avoid using quotations. Rephrasing the writing in your own words and with appropriate citation is much more effective in conveying information.
 
-- Concisely and accurately report and interpret descriptive statistics, assumptions tests, and inferential statistics. Note and justify any deviations from the stage one report.
+- Concisely and accurately report and interpret descriptive statistics, diagnostic checks for assumptions, and inferential statistics. Note and justify any deviations from the stage one report.
 
 - Present appropriate visualisations for the analyses that you conduct. 
 
-- Interpret the results of the project in the context of the wider literature
+- Interpret the results of the project in the context of the wider literature.
 
 - Demonstrate evidence of evaluation, both of the wider literature and of the current project.
 
@@ -94,7 +94,7 @@ source(file = "include/deadlines.R")
 
 - Failure to report the results of statistical tests according to APA convention.
 
-- Failure to provide necessary visualisations or the inclusion of unnecessary visualisations. You do not need to provide visualisations for any assumption tests in the main report (although you can include these in the appendix).
+- Failure to provide necessary visualisations or the inclusion of unnecessary visualisations. You do not need to provide visualisations for any diagnostic checks in the main report (although you can include these in the appendix).
 
 - A lack of evaluation of the wider literature and the current project and/or a discussion of the limitations that is not supported by evidence. 
 
@@ -108,7 +108,7 @@ source(file = "include/deadlines.R")
 
 ## Why am I being assessed like this?
 
-- Registered reports are becoming increasingly common in psychological research and it is a process that will serve you well should you continue with research as it demonstrates a commitment to open and reproducible science.
+- Registered reports are increasingly common in psychological research and it is a process that will serve you well should you continue with research as it demonstrates a commitment to open and reproducible science.
 
 - The stage two report allows you to address your research question using your planned methods and analyses from the stage one report. You will then put your findings in context and explore how your results were either consistent or inconsistent with past research, while noting any important limitations in your methods. 
 
@@ -124,21 +124,51 @@ source(file = "include/deadlines.R")
 
 ## Academic Integrity
 
-Please note that when submitting your work for assessment we accept it on the understanding that it is your own effort and work and unique to the set assignment. 
+Please note that when submitting your work for assessment we accept it on the understanding that it is your own effort and work and unique to the set assignment.
 
 To support you in understanding what plagiarism is and in avoiding it, please read the following resources that the University provides:
 
--	[SRC Advice and Support](https://www.glasgowunisrc.org/advice/)
+- [SRC Advice and Support](https://www.glasgowunisrc.org/advice/){target="_blank"}.
 
--	[Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2023-24/feesandgeneral/studentsupportandconductmatters/reg33/) and [Plagiarism Statement](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2023-24/feesandgeneral/studentsupportandconductmatters/reg32/)
+- [Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2024-25/feesandgeneral/studentsupportandconductmatters/reg33/){target="_blank"} and [Plagiarism Statement](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2024-25/feesandgeneral/studentsupportandconductmatters/reg32/){target="_blank"}.
 
--	[Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/course/view.php?id=13038) (a Moodle course you can self-enrol in)
+- [Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/enrol/index.php?id=13038){target="_blank"} (a Moodle course you can self-enrol in).
 
--	[Academic Advice in MVLS](https://www.gla.ac.uk/myglasgow/sld/writingstudyadvice/mvls/)
-
-**University statement on AI**: The advent of free AI tools is transforming our world and offers many opportunities to help us deal with large amounts of information. While we support students in learning how to use these tools to help them study, you should not submit for assessment something generated by an AI tool as though it is your own work. Please carefully read the [University’s position on AI](https://www.gla.ac.uk/myglasgow/sld/ai/).
+- [Student support for AI, plagiarism, and digital skills ](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}.
 
 **Statement on groupwork**: This report is not a group work assignment, so your work must be your own individual contribution. However, as you worked closely in a small team and from common templates, we know that there may be some unavoidable similarities between team members in the results, but it should never be identical or close to identical.
+
+## AI statement
+
+The University of Glasgow recognises the value of generative artificial intelligence tools in academic and professional workplaces. The university has a responsibility to ensure that students acquire the necessary knowledge, skills and other competencies associated within their discipline. The [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/ai/students/){target="_blank"} service provides general guidance and support for students on the use of generative AI, but each item of assessment in your courses will have specific generative AI guidance about use and misuse in place. Where generative AI restrictions are in place, they have been carefully designed to maximise your learning opportunity whilst discouraging reliance on generative AI in a way that undermines your learning, or development of good professional practice and graduate attributes.
+
+**Statement on use of generative AI**: The current assessment is summative, meaning that it contributes to your course grade. The generative AI use for this assessment is categorised as **amber** and use of generative AI is allowed for some tasks during the preparation of the assessment.
+
+There is no expectation that you will use generative AI and we have no evidence that its use will confer an advantage for this assessment. If you do use generative AI, please clearly acknowledge its use in-text via citations and referencing and in an appendix with a declaration of AI use as appropriate – please see the title page on Moodle for further instructions. If you choose to use it, we recommend that you use the Microsoft Edge browser with Copilot and sign into your university account using the two-factor authentication to ensure that your work is private and secure. Please keep a log of all AI use.
+
+The purpose of this assessment is to work on your quantitative research methods skills and your understanding of a research project from communicating your findings to putting your results in context. The stage two report is the culmination of your skill development in RM1, as you are applying your data wrangling, visualisation, and analysis skills, plus your subject knowledge and research skills for writing the results and discussion. You will write whole reports in RM2 and your dissertation, so this is the chance to develop your own skills. Any short-cuts you take now will have a knock-on effect in future. So, try and embrace the skill development component to the course and assessment. 
+
+If you do use generative AI tools, we recommend using it for the following (non-exhaustive) kind of tasks: 
+
+- Clarify complex concepts and reinforce understanding around intended learning outcomes.
+
+- Plan a structure for your assessment.
+
+- Recommend keywords and other tips for effective literature searches.
+
+- Help debug code by working out the source of errors. 
+
+- Assist with referencing format.
+
+If you do use generative AI tools, we strongly recommend **not** using it for the following (non-exhaustive) kind of tasks: 
+
+- Conducting your whole literature review for you, as you may miss out on potentially useful sources and AI tools are notorious for making up references.
+
+- Write whole paragraphs or sections of your report for you. 
+
+- Conduct your whole data analysis or generate summaries of data for you. 
+
+- Rewrite bulleted lists or notes into sentences and paragraphs.
 
 ## Feedback information {#stage2-FIS}
 
@@ -160,11 +190,11 @@ You are more than welcome to receive additional feedback after the marking proce
 
 ### How will feedback from this assessment help me in the future?
 
-The feedback on this assessment will help you in writing future research reports, such asthe qualitative report in semester 2, your MSc dissertation, and in any future research work you conduct that requires academic writing and evidence-based evaluation.
+The feedback on this assessment will help you in writing future research reports, such as the qualitative report in semester 2, your MSc dissertation, and in any future research work you conduct that requires academic writing and evidence-based evaluation.
 
 ### Who assessed my work?
 
-The first marker for your report will be a member of the research methods team within the School of Psychology and Neuroscience.
+The first marker for your report will be a member of the Research Methods 1 team within the School of Psychology and Neuroscience.
 
 Following University’s policy, as part of the marking procedures, the assignment marking will be moderated. The moderator will be another member of the research methods team who will moderate a range of work from across the cohort to ensure that appropriate academic standards have been applied in marking the assignments and that they have been applied consistently across the cohort of students being assessed. 
 
