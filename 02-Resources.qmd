@@ -14,7 +14,7 @@ Data skills takes time and trial and error to learn. We direct you to one or two
 
 ## Handy workbook
 
-An additional resource we will link to time to time is [A Handy Workbook for Research Methods & Statistics](https://psyteachr.github.io/handyworkbook/index.html). From around week 6, we will introduce you to inferential statistics. When you use these practically, you will use R/RStudio to efficiently analyse larger amounts of data. In the Handy Workbook, we work through step-by-step how these statistical tests work, so you can gain a better understanding of what numbers go in, what happens to those numbers, and what numbers come out. 
+An additional resource we will link to time to time is [A Handy Workbook for Research Methods & Statistics](https://psyteachr.github.io/handyworkbook/index.html){target="_blank"}. From around week 6, we will introduce you to inferential statistics. When you use these practically, you will use R/RStudio to efficiently analyse larger amounts of data. In the Handy Workbook, we work through step-by-step how these statistical tests work, so you can gain a better understanding of what numbers go in, what happens to those numbers, and what numbers come out. 
 
 ## Course reading list
 

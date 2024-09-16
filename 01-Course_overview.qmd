@@ -46,7 +46,6 @@ By the end of the course, you will be able to:
 - **Stage one group report (30%)**
 
     - Group submission of a planned introduction and method to answer a research question you develop. 
-
  - **stage two individual report (50%)** 
  
     - Individual submission of an abstract, results, and discussion that address the research question you developed in your group. 
@@ -81,7 +80,7 @@ However, please note we would ask that you do not send questions, either about a
 
 ## GTA data skills support sessions
 
-Building your data skills primarily comes from self-directed learning as you work through the [Fundamentals of Quantitative Research Methods book](https://psyteachr.github.io/quant-fun-v2/index.html) we have developed. These walk through learning R/RStudio and applying data skills such as wrangling data, visualisation, and inferential statistics. However, we appreciate you may have questions or encounter errors you cannot work out on your own. That is why we schedule weekly support sessions with our GTAs. 
+Building your data skills primarily comes from self-directed learning as you work through the [Fundamentals of Quantitative Research Methods book](https://psyteachr.github.io/quant-fun-v3/){target="_blank"} we have developed. These walk through learning R/RStudio and applying data skills such as wrangling data, visualisation, and inferential statistics. However, we appreciate you may have questions or encounter errors you cannot work out on your own. That is why we schedule weekly support sessions with our GTAs. 
 
 The GTA support sessions are drop-in sessions, meaning they are not timetabled classes you must attend. They are there to go to if you have a problem, and you can come and ask questions. Our GTAs may demonstrate techniques or how to fix problems, but they are not intended to be chapter walkthroughs. The idea is you engage in self-directed study, and then you can come to the support sessions if you encounter problems. 
 
