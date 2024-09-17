@@ -80,17 +80,13 @@ In addition to the MSLQ, we also have a selection of demographic information abo
 
 ## Distinguishing types of research questions
 
-You are going to conduct one of two types of statistical analyses in your study and it is up to you and your group to decide which one. You will conduct either a **correlation** or a **t-test** analysis. These answer different questions:
+For the research question (what you want to try and answer with your project) you develop in your group, there are two main types for the designs we introduce you to in this course. First, you might be interested in the relationship between two variables, such as whether an increase in one variable is associated with an increase in another variable. Second, you might be interested in whether two groups differ on a given outcome.  
 
-- Correlations assess whether there is a relationship between two variables
+For relationships, if you are thinking about which sub-scales might be correlated with each other or related, you might ask such research questions as: 
 
-- t-tests assess whether there is a difference between two groups
+1. Is there a relationship between help-seeking and test anxiety?
 
-Do not worry about exactly what the statistical analyses mean for now, we will cover this throughout the course! To help you understand a little more, if you are thinking about which sub-scales might be correlated with each other or related, you might ask such research questions as: 
-
-1. Is help-seeking and test anxiety related? Are students who are more likely to seek help, less likely to be anxious about their assessments?
-
-2. Is intrinsic goal orientation and effort regulation related? Are students who engage in learning for the challenge and to learn something new (rather than just to get good grades/pass the test) better at studying consistently throughout the semester and completing their goals?
+2. Is there an association between intrinsic goal orientation and effort regulation?
 
 If you are thinking about which sub-scales might show group differences, you might ask such research questions as:
 
@@ -100,19 +96,20 @@ If you are thinking about which sub-scales might show group differences, you mig
 
 We will go into more detail about how to create formal research questions and hypotheses in future weeks. Starting in week 2, we will show you how to find peer-reviewed evidence to build your understanding of the variables, identify a rationale, and develop your research question and hypothesis.
 
-::: {.warning data-latex=""}
-Your write up must contain a correlation analysis or a t-test analysis and so your research question, and ultimately your hypothesis, must be able to be answered by one of those approaches. 
+::: {.callout-important}
+You will have freedom to develop a research question in your group but since you are using secondary data, there are constraints. Keep in mind you only have the variables listed above available to you. This course is also introductory, so we intentionally restrict you to focusing on two variables. You will learn how to test more complex research questions in RM2 / semester 2. 
 :::
 
 ## MSLQ suggested variable pairs
 
-Now you have an understanding of what the MSLQ project is, we have a list of variable pairs that have worked well in the past and we know that there is some existing literature to base your study on. We would like you to read through these pairs for different types of designs and analyses you will learn about in the semester. When you complete the group allocation spreadsheet, you will put your name down next to the pair you are most interested in, and we will use this to organise people into groups with similar interests. 
+Now you have an understanding of what the MSLQ project is, we have a list of variable pairs that have worked well in the past and we know that there is some existing literature to base your study on. We would like you to read through these pairs for different types of designs you will learn about in the semester. When you complete the variable preference form, you will put your name down next to the pair you are most interested in, and we will use this to try and organise people into groups with similar interests. Just keep in mind we cannot always match people as there might be too many people with the same interests per lab, so there will still be an element of randomness to your groups.
 
-::: {.info data-latex=""}
-**Can I still change my mind?** This seems like a big decision to make so early, but we use your initial interests to arrange people into groups when you might not know other people in your lab yet. You can choose different variables once you are in your groups, but we outlined these as we know they can work well together for the report, and you must make any changes in collaboration with all the members of your group. Once you settle on two variables, you might also focus on a specific population in your group as you develop your rationale, like focusing on postgraduate students if you recognise there is a gap in the literature, so there is still creative freedom beyond choosing the variable pairs. 
+::: {.callout-note}
+#### Can I still change my mind?
+This seems like a big decision to make so early, but we use your initial interests to arrange people into groups when you might not know other people in your lab yet. You can choose different variables once you are in your groups, but we outlined these as we know they can work well together for the report, and you must make any changes in collaboration with all the members of your group. Once you settle on two variables, you might also focus on a specific population in your group as you develop your rationale, like focusing on postgraduate students if you recognise there is a gap in the literature, so there is still creative freedom beyond choosing the variable pairs. 
 :::
 
-### **t-test** for comparing two categories
+### Variable pairs for comparing two groups
 
 - Test anxiety and undergraduate vs postgraduate, or years 1 and 2 vs years 3-5 (pre-honours vs honours at the University of Glasgow)
 
@@ -126,7 +123,7 @@ Now you have an understanding of what the MSLQ project is, we have a list of var
 
 - Intrinsic motivation and undergraduate vs postgraduate study
 
-### **Correlation** for the association between two variables. 
+### Variable pairs for the association between two variables. 
 
 - Self-efficacy and help-seeking
 
@@ -138,10 +135,7 @@ Now you have an understanding of what the MSLQ project is, we have a list of var
 
 - Intrinsic motivation and age
 
-### **Wild card** for two different variables. 
-
-- If you want complete freedom from the start to choose your own two variables, you can put your name next to the wild card slot. Note that this is a riskier choice, so you and your group should meet with your lab tutor in their student drop-in hours before the end of week 3 to discuss your planned direction.
-
-::: {.try data-latex=""}
-Now you have read through the MSLQ and project overview, think about which variable pairs interest you the most and put your name down next to the pair that you want to start exploring on the group allocation document (available on Moodle). We will start putting you in groups in week 2 so you have as much time as possible to work on your group project. 
+::: {.callout-tip}
+#### Try this
+Now you have read through the MSLQ and project overview, think about which variable pairs interest you the most and put your name down next to the pair that you want to start exploring on the variable interest form (available on Moodle). We will start putting you in groups in week 2 so you have as much time as possible to work on your group project. 
 :::

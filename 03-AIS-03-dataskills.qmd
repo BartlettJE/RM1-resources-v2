@@ -2,7 +2,7 @@
 source(file = "include/deadlines.R")
 ```
 
-# Data skills
+# Data Skills
 
 ## General information 
 
