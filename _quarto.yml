@@ -59,6 +59,12 @@ book:
       - 03-AIS-03-dataskills.qmd
       - 03-AIS-04-stage1.qmd
       - 03-AIS-05-stage2.qmd
+  - part: 04-Labs-00.qmd
+    chapters:
+      - 04-Labs-01.qmd
+  - part: 05-Writing-00.qmd
+    chapters:
+      - 05-Writing-01-MSLQ.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

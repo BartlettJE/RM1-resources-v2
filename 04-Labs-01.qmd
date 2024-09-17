@@ -4,9 +4,9 @@
 
 The aim of the lab in week 1 is introducing you to the course and assessments. 
 
-You will meet your tutor and graduate teaching assistant (GTA) who will be leading and supporting your lab. You will see an overview of the assessments and break down the registered report that will be the largest component of the course. For example, what the topic of your research report will be, what the group and individual tasks are, and what a registered report is. 
+You will meet your tutor and graduate teaching assistant (GTA) who will be leading and supporting your lab. You will see an overview of the assessments and break down the registered report that will be the largest component of the course. For example, what the topic of your research report will be, what the group and individual tasks are, and what a registered report is. Your tutor will then guide you through the key sources of support and information, such as the course Teams channel and data skills support sessions. 
 
-Your tutor will then guide you through the key sources of support and information, such as the RM1 Moodle page and how to post on the course Teams channel. 
+Developing your data skills using R/RStudio is mainly through self-directed study with the Fundamentals of Quantitative Analysis workbook. However, a few labs will be dedicated to key milestones. In this first lab, you will see a little tour of RStudio to show what it looks like. 
 
 The end of the lab will then be dedicated to a group discussion on the pre-lab activity on which variable pairs you are most interested in and a general Q&A. 
 
