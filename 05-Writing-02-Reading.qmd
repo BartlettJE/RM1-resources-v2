@@ -295,31 +295,27 @@ Now you have read about the QALMRI method and saw how you can answer the 11 ques
 
 [Pieger et al. (2018)](https://www.frontiersin.org/articles/10.3389/feduc.2018.00101/full){target="_blank"} is available open access through the journal *Frontiers in Education*. They studied the disfluency effect: the idea that writing information in a harder to read font requires greater concentration which can lead to improved recall when quizzed on the topic. Read through the article and try to answer the questions from the QALMRI method. The activity below is based on downloading the article as a PDF to see page numbers, but you could check your understanding of the QALMRI questions using either the web or PDF version. 
 
-Each question has two elements: the page number that includes the information and a hidden solution providing a longer explanation. Make sure you attempt each question on your own first and then check you identified the correct information by looking at the solution. For the page number, you can keep track of how many you answered correct below:
-
-`r total_correct(elem = "h3", args = "style='color:#003366;'")`
+Each question has two elements: the page number that includes the information and a hidden solution providing a longer explanation. Make sure you attempt each question on your own first and then check you identified the correct information by looking at the solution.
 
 #### Questions
 
 1. What was the broad question (the general topic of interest) being asked by this research project?
 
-Page `r fitb(2)` best includes this information. 
+Page `r fitb(2, num = TRUE)` best includes this information. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 On the middle left of page 2, their broad question can best be described as "is disfluency a desirable difficulty and does it activate analytic monitoring?". 
-
-`r unhide()`
+:::
 
 2. What was the specific question (what this specific experiment will address) being asked by this research project? There are **two** research questions the authors are interested in here, but they are both on the same page. 
 
 Page `r fitb(3)` best includes this information. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 On the bottom right of page 3, their specific research questions are helpfully in the research questions sub-section. They are asking two questions: (1) does viewing disfluent then fluent test activiate analytic monitoring and (2) does viewing fluent then disfluent text activate surface level monitoring?  
-
-`r unhide()`
+:::
 
 #### Alternatives 
 
@@ -327,33 +323,30 @@ On the bottom right of page 3, their specific research questions are helpfully i
 
 Page `r fitb(3)` best includes this information. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 On the bottom right of page 3, hypothesis 1: when participants view disfluent then fluent texts, they expect no difference between disfluent text and fluent text on their outcomes. 
-
-`r unhide()`
+:::
 
 4. What were the alternative hypotheses (what other explanations could there be that the authors ruled out)?
 
 Page `r fitb(3)` best includes this information. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 On the bottom right of page 3, hypothesis 2: when participants view fluent then disfluent texts, they expect the outcomes such as ease of learning to be lower for disfluent text than fluent text. Note: This is slightly different to the previous example. Pieger et al. (2018) did not outline competing hypotheses, they just outlined their predictions in two parts for each presentation order. 
-
-`r unhide()`
+:::
 
 #### Logic
 
 5. What was the logic of the hypothesis? i.e., if the hypothesis was true, what should we expect to happen? There is no page number to identify here, you just need outline what results would support each hypothesis. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 For hypothesis 1, there will be no difference in the dependent variables between disfluent text and fluent text when participants are shown the materials in the disfluent then fluent order. 
 
 For hypothesis 2, the dependent variables will be lower for disfluent text than fluent text when participants are shown the materials in the fluent then disfluent order. 
-
-`r unhide()`
+:::
 
 #### Methods
 
@@ -361,31 +354,28 @@ For hypothesis 2, the dependent variables will be lower for disfluent text than 
 
 Page `r fitb(4)` best includes this information. 
 
-`r hide("Check the solution")`
-
-On the left middle of page 4, the study is a 2x2 mixed design. Note: the authors do not specifically outline the design in shorthand, but they describe each independent variable. The sample included 65 university students from the authors' department.  
-
-`r unhide()`
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
+On the left middle of page 4, the study is a 2x2 mixed design. Note: the authors do not specifically outline the design in shorthand, but they describe each independent variable. The sample included 65 university students from the authors' department.   
+:::
 
 7. What were the variables? i.e., independent and dependent variables for experiments; variables for correlations. 
 
 Page `r fitb(4)` best includes this information. 
 
-`r hide("Check the solution")`
-
-IV1 is between-subjects and includes the contrast group for which order they see the text. IV2 is within-subjects and includes both fluent and disfluent text conditions. The study has several dependent variables including ease of learning, prediction of performance, and actual memory performance. 
-
-`r unhide()`
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
+IV1 is between-subjects and includes the contrast group for which order they see the text. IV2 is within-subjects and includes both fluent and disfluent text conditions. The study has several dependent variables including ease of learning, prediction of performance, and actual memory performance.  
+:::
 
 8. Briefly describe the study procedure in everyday terms. 
 
 Pages `r fitb(4)` and `r fitb(5)` best include this information. There is also a diagram to help explain the procedure on page `r fitb(6)`. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 For each fluent and disfluent text, participants briefly saw the text and completed the dependent variables related to the first monitoring judgments. For example, rating how confident they were about their performance. Then the participants studied the text for up to 15 minutes and completed the second monitoring judgments. Depending on IV1, they either read the disfluent text first or the fluent text first. When they finished reading both texts, they completed knowledge tests for both texts at the end. 
-
-`r unhide()`
+:::
 
 #### Results
 
@@ -393,11 +383,10 @@ For each fluent and disfluent text, participants briefly saw the text and comple
 
 Page `r fitb(7)` best includes this information. 
 
-`r hide("Check the solution")`
-
-On the bottom left of page 7, performance is the last dependent variable they analyse before summarising all their results. There was a statistically significant main effect of fluency. This means if you ignore which contrast group they were allocated to, performance was higher for fluent text than disfluent text. Note: the authors also use something called Bayesian statistics which you may be less familiar with. 
-
-`r unhide()`
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
+On the bottom left of page 7, performance is the last dependent variable they analyse before summarising all their results. There was a statistically significant main effect of fluency. This means if you ignore which contrast group they were allocated to, performance was higher for fluent text than disfluent text. Note: the authors also use something called Bayesian statistics which we do not cover in this course. 
+:::
 
 #### Inferences
 
@@ -405,21 +394,19 @@ On the bottom left of page 7, performance is the last dependent variable they an
 
 Page `r fitb(7)` best includes this information. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 On the top and middle of page 7, the authors recap their results at the start of the discussion. When the fluent text was presented first, participants use fluency as a cue for all learning judgements (e.g., ease of learning and prediction of performance). Participants rated these variables as lower for the disfluent text than for the fluent text. However, when the disfluent text was presented first, participants no longer use fluency as a cue for learning judgments and there was no significant difference between fluent and disfluent texts. 
-
-`r unhide()`
+:::
 
 11. How did the authors use the results to make inferences and conclusions about the hypothesis and research question?
 
 Page `r fitb(7)` best includes this information. 
 
-`r hide("Check the solution")`
-
+::: {.callout-caution collapse="true"} 
+#### Explain this answer
 On the top and middle of page 7, the authors concluded their results support both hypothesis 1 and hypothesis 2. Hypothesis 1 predicted there would be no difference in learning judgments when participants read the disfluent then the fluent text. Hypothesis 2 predicted learning judgments would be lower for the disfluent text when participants read the fluent then the disfluent text. 
-
-`r unhide()`
+:::
 
 ### Organising journal articles 
 
