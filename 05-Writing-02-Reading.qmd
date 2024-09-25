@@ -301,7 +301,7 @@ Each question has two elements: the page number that includes the information an
 
 1. What was the broad question (the general topic of interest) being asked by this research project?
 
-Page `r fitb(2, num = TRUE)` best includes this information. 
+Page `r fitb(2)` best includes this information. 
 
 ::: {.callout-caution collapse="true"} 
 #### Explain this answer
