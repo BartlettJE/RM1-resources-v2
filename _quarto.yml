@@ -63,10 +63,12 @@ book:
     chapters:
       - 04-Labs-01.qmd
       - 04-Labs-02.qmd
+      - 04-Labs-03.qmd
   - part: 05-Writing-00.qmd
     chapters:
       - 05-Writing-01-MSLQ.qmd
       - 05-Writing-02-Reading.qmd
+      - 05-Writing-03-Rationale.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
