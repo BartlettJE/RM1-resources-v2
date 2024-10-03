@@ -210,7 +210,7 @@ One evidenced-based strategy to learn how to read journal articles containing or
 
 ### The QALMRI Method in Action
 
-The authors of the QALMRI method ([Brosowsky & Parshina, 2017](https://nbrosowsky.github.io/documents/QALMRI-instructions.pdf){target="_blank"}) provide a worked example so you can see what information you must identify in a journal article. The following answers are reproduced from Brosowsky and Parshina with some minor edits. They evaluated the study "Ecological validity of the testing effect: The use of daily quizzes in introductory Psychology" by [Batsell et al. (2017)](http://journals.sagepub.com/doi/full/10.1177/0098628316677492){target="_blank"}:
+The authors of the QALMRI method ([Brosowsky & Parshina, 2017](https://attentionandlearninglab.com/papers/2017_BrosowskyParshina.pdf){target="_blank"}) provide a worked example in Appendix A so you can see what information you must identify in a journal article. The following answers are reproduced from Brosowsky and Parshina with some minor edits. They evaluated the study "Ecological validity of the testing effect: The use of daily quizzes in introductory Psychology" by [Batsell et al. (2017)](http://journals.sagepub.com/doi/full/10.1177/0098628316677492){target="_blank"}:
 
 #### Questions
 
