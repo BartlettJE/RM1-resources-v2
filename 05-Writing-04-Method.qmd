@@ -6,6 +6,16 @@ library(knitr)
 
 # Structure of the Method {#method-section}
 
+The method is in the middle of the hourglass shape of a report (@fig-method). It is the first specific section which is exclusively about your study. 
+
+```{r method highlight, echo=FALSE}
+#| label: fig-method
+#| fig.cap: "The method section highlighted as the focus of this chapter."
+#| fig.alt: "Empirical report structure as an hourglass shape. In this part, the method is highlighted in red to show it is the focus of this chapter."
+
+include_graphics("images/04-method-highlight.png")
+```
+
 The method section is normally split into a series of subsections, each detailing different aspects of how you went about running your study. For your report, we recommend using the following subsections:
 
 -   Participants
