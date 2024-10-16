@@ -1,0 +1,44 @@
+```{r, echo=FALSE}
+source(file = "include/deadlines.R")
+```
+
+# Week 5
+
+## Lab overview
+
+This week, we are combining a check-in for how your data skills are developing using R/RStudio and helping to prepare for analysing the MSLQ project data. Given we only have a one-hour lab together each week, there is not enough time to teach coding in the labs, but we have these check-ins to see how you are getting on throughout the semester. 
+
+In the lab, you will work on a pair programming activity. This is an effective problem solving technique where one person is the "driver" - they write the code - and one person is the "navigator" - they guide the driver through writing code and help fix errors. 
+
+We essentially have 50 minutes in the lab, so preparation is critical this week. Please download the .zip file below or from Moodle and save it on your computer. You can read over the R Markdown template and complete task 0 in preparation, but please do not go any further as the collaboration is key here. 
+
+```{r self reg image, echo=FALSE, out.width = "50%", fig.cap="Pair Programming (Orzechowski, 2024)"}
+knitr::include_graphics("images/pairprogramming.png")
+```
+
+## Tasks to complete prior to your lab
+
+1. Download the .zip file containing the R Markdown template, data folder containing the two data extracts, and the codebook folder containing the two codebooks. 
+
+2. Extract all the files and folders from within the .zip file and read over the R Markdown template. Please do not complete anything beyond task 0 in the lab as we want you to collaborate. You can work on your own version after the lab. 
+
+::: {.callout-tip}
+#### How do I use .zip files? 
+We provide the materials in a .zip to share a bunch of files together. If you are unfamiliar with a .zip file, make sure you do not try and open your .Rmd file from within and save your work there. You will get a bunch of errors. When you download it, extract the files by opening the .zip file and copy and paste everything to your regular documents or downloads in preparation for task 0. 
+
+On a Mac, you can just double click the .zip file and it will create a regular folder. On a Windows computer, you might need to right-click on it and select extract all. 
+:::
+
+## Tasks to complete after attending your lab
+
+1. If you have not already allocated tasks, look back at the [stage one task sharing advice](#stageone-planning). Now you know about the method section, think about what details you know about, what you do not know yet, and how you will find out what you do not know. Identify all the researcher degrees of freedom in your method and think about which decisions you can justify. 
+
+2. For inspiration on the writing the method, read the method section (pages 2 and 3) of the article [*Registered Replication Report: Testing Disruptive Effects of Irrelevant Speech on Visual-Spatial Working Memory*](https://jeps.efpsa.org/articles/10.5334/jeps.450){target="_blank"} by Kvetnaya (2018). One component that might feel a little odd is writing the participants section when you do not know the final sample. It might be useful to refer to Kvetnaya's original [stage one version online](https://osf.io/j4475){target="_blank"} to see how she framed the planned sample before the wording changed in the final article. You will also notice the sub-sections are slightly different to what we recommend. 
+
+3. Finalise your rationale, research question, and hypothesis (if applicable) in your group.
+
+## Next week 
+
+After week 4, we have explored both major sections you need for your stage 1 group report. There are still things we do not expect you to know yet, such as the specific statistical test you will need to test your research question, but you will at least know where they go once you have developed this knowledge. So, make sure you discuss in your groups how you plan on splitting tasks now you have a better insight into the method. 
+
+Next week, there will be a pause to the report sections focus in the labs. We will have our first main R focused lab as a check-in. You will complete a pair programming activity to work on wrangling the data extract we shared to help you develop your stage 1 group report. The data you receive for your stage 2 individual report will be in the exact same format, just containing way more participants. Until this point, you will have developed your data wrangling skills in the quant fundamentals books, so we will have a few structured tasks to work on in pairs. 
