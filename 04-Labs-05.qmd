@@ -18,7 +18,7 @@ knitr::include_graphics("images/pairprogramming.png")
 
 ## Tasks to complete prior to your lab
 
-1. Download the .zip file containing the R Markdown template, data folder containing the two data extracts, and the codebook folder containing the two codebooks. 
+1. Download the .zip file containing the R Markdown template, data folder containing the two data extracts, and the codebook folder containing the two codebooks: [lab_05_MSLQ_wrangling.zip](Supporting/lab_05_MSLQ_wrangling.zip)
 
 2. Extract all the files and folders from within the .zip file and read over the R Markdown template. Please do not complete anything beyond task 0 before the lab as we want you to collaborate. You can work on your own version after the lab. 
 

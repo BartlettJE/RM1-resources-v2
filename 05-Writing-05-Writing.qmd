@@ -2,15 +2,15 @@
 source(file = "include/deadlines.R")
 ```
 
-# Academic Writing and Academic Integrity {#academic-writing}
+# Academic Writing {#academic-writing}
 
-In the research skills chapter this week, we are focusing on academic writing. We have split this into different components to focus on academic writing, paragraph structure to encourage the use of PEEL paragraphs, and using evidence in your writing. We then have content on APA formatting for which content should follow the stardardised format in the style guide. Finally, we have a summary of key concepts around academic integrity, including avoiding plagirism, the University of Glasgow's position on AI tools, and group work. 
+In this research skills chapter, we are focusing on academic writing. We have split this into different components to focus on academic writing, paragraph structure to encourage the use of PEEL paragraphs, and using evidence in your writing. We then have content on APA formatting for which content should follow the stardardised format in the style guide.
 
 ## Academic writing
 
 While we encourage you to approach reading journal articles to develop a sense of scientific writing style, they are not always the best examples of how to write well. This means writing for clarity and conciseness, to help communicate your ideas to the reader. 
 
-Some authors approach writing by trying to fill it with as many big words as they can find. We want you to learn the technical terms to use where appropriate, but the writing around them should be clear and concise with effective paragraph structure. [Freeling et al. (2021)](https://www.frontiersin.org/article/10.3389/fpsyg.2021.714321) showed how writing in a more engaging accessible style results in higher readability, understanding, and confidence in a topic. So, there are a few things to aim for and a few things to avoid in your writing. 
+Some authors approach writing by trying to fill it with as many big words as they can find. We want you to learn the technical terms to use where appropriate, but the writing around them should be clear and concise with effective paragraph structure. [Freeling et al. (2021)](https://www.frontiersin.org/article/10.3389/fpsyg.2021.714321){target="_blank"} showed how writing in a more engaging accessible style results in higher readability, understanding, and confidence in a topic. So, there are a few things to aim for and a few things to avoid in your writing. 
 
 ### Aim
 
@@ -26,9 +26,7 @@ Some authors approach writing by trying to fill it with as many big words as the
 
 - Colloquial or conversational English. 
 
-- Unnecessarily complex language and unnecessary "rhetorical flourishes" such as irony, ambiguity (intentional or otherwise) and informal language.
-
-- Repetition
+- Unnecessarily complex language and unnecessary "rhetorical flourishes" such as irony, ambiguity (intentional or otherwise), and informal language.
 
 - Asking rhetorical questions. The purpose of a report or essay is to explain to the reader what something means, not pose a question back at them. 
 
@@ -36,7 +34,7 @@ Some authors approach writing by trying to fill it with as many big words as the
 
 ### Top Tips to improve your writing
 
-- Do not submit the first draft. No-one ever writes anything good on the first attempt. Good writing is all in the editing process, the first draft is just about getting your ideas on the page. 
+- Do not submit the first draft. No-one ever writes anything good on the first attempt. Good writing is all in the editing process, the first draft is just about getting your ideas on the page. We once saw the advice (but cannot remember the source): "the first draft is explaining your ideas to yourself, the editing is about explaining your ideas to the reader".
 
 - Read your essay out loud as you will easily spot a horrendously long sentence as you lose your breath trying to read it aloud.
 
@@ -44,19 +42,19 @@ Some authors approach writing by trying to fill it with as many big words as the
 
 - Ask a friend to proof-read. This is particularly helpful if they do not study psychology (or if they are doing a different topic than you) because they will only understand it if you have properly explained your key concepts and if the logic flows.
 
-- Read lots of journal articles as you will start to recognise what works and what does not for you as the reader, so you can start to reflect it in your own writing.  
+- Read lots of journal articles as you will start to recognise what works and what does not work for you as the reader, so you can start to reflect it in your own writing.  
 
 ### Further resources
 
-The [Student Learning Development team](https://www.gla.ac.uk/myglasgow/sld/writingstudyadvice/mvls/#) have several sources of support available:
+The [Student Learning Development team](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"} have several sources of support available:
 
-- You can book 1-to-1 advice and support sessions
+- You can book 1-to-1 advice and support sessions.
 
-- There is [additional support available](https://www.gla.ac.uk/myglasgow/sld/international/ugandpgt/) for international students
+- There is [additional support available](https://www.gla.ac.uk/myglasgow/sld/about/team/international/){target="_blank"} for international students.
 
 - There are pre-recorded classes in a Moodle course you can self-enrol in.
 
-You might be busy enough on this course, but if you want to work on your academic writing, there is an excellent free course on Coursera called [Writing in the Sciences](https://www.coursera.org/learn/sciwrite?). This has 8 modules covering concepts like effective writing, verbs, and sentence structure. 
+You are busy enough on this course, but if you want to work on your academic writing, there is an excellent free course on Coursera called [Writing in the Sciences](https://www.coursera.org/learn/sciwrite?){target="_blank"}. This has 8 modules covering concepts like effective writing, verbs, and sentence structure. 
 
 ## Paragraph structure 
 
@@ -70,7 +68,7 @@ Once you start organising your ideas into writing, its important to consider goo
 
 - Link – Finally, in the final sentence or two, you have a summary sentence to wrap up your paragraph and help transition to the next paragraph. 
 
-For an example, we will break down a paragraph from [Robertson and Simmons (2013)](https://link.springer.com/article/10.1007/s10803-012-1608-7):
+For an example, we will break down a paragraph from [Robertson and Simmons (2013)](https://link.springer.com/article/10.1007/s10803-012-1608-7){target="_blank"}:
 
 > There are a number of neural theories of autism that aim to explain the unusual sensory processing reported within this population. Enhanced Perceptual Functioning (EPF) theory (Mottron, Dawson, Soulières, Hubert, & Burack, 2006) is based on the premise that individuals with ASD exhibit superior local processing abilities. This theory proposes that ASD stems from a superiority of low-level perception (such as discrimination and pattern perception), resulting in  increased attention to lower order cognitive  processes, at the expense of higher order ones (eg social interaction) (Mottron & Burack, 2001). In an update to the Enhanced Perceptual Functioning theory, the  authors  hypothesised that the superior local processing observed in ASD is a result of mandatory global bias in individuals without  ASD, even when it is detrimental to task  performance (Mottron et al., 2006). The ‘neural noise hypothesis’ also provides an account for atypical sensory reactivity reported in ASD. The concept of a ‘noisy system’ has been proposed in multiple studies and reviews (Dakin & Frith, 2005; Franklin et al., 2010; Sanchez-Marin & Padilla-Medina, 2008; Simmons et al., 2009) to explain the performance of individuals with ASD. When combined with the evidence of increased heterogeneity in ASD, particularly that of intraparticipant variability (Milne, 2011), it was proposed that neural noise could account for the strengths and impairments observed in ASD (Simmons et al., 2007).
 
@@ -98,7 +96,7 @@ Finally, once you have explained what the evidence means, it is type to wrap up 
 
 > There are a number of neural theories of autism that aim to explain the unusual sensory processing reported within this population. Enhanced Perceptual Functioning (EPF) theory (Mottron, Dawson, Soulières, Hubert, & Burack, 2006) is based on the premise that individuals with ASD exhibit superior local processing abilities. This theory proposes that ASD stems from a superiority of low-level perception (such as discrimination and pattern perception), resulting in  increased attention to lower order cognitive  processes, at the expense of higher order ones (eg social interaction) (Mottron & Burack, 2001). In an update to the Enhanced Perceptual Functioning theory, the  authors  hypothesised that the superior local processing observed in ASD is a result of mandatory global bias in individuals without  ASD, even when it is detrimental to task  performance (Mottron et al., 2006). The ‘neural noise hypothesis’ also provides an account for atypical sensory reactivity reported in ASD. The concept of a ‘noisy system’ has been proposed in multiple studies and reviews (Dakin & Frith, 2005; Franklin et al., 2010; Sanchez-Marin & Padilla-Medina, 2008; Simmons et al., 2009) to explain the performance of individuals with ASD. **When combined with the evidence of increased heterogeneity in ASD, particularly that of intraparticipant variability (Milne, 2011), it was proposed that neural noise could account for the strengths and impairments observed in ASD (Simmons et al., 2007).**
 
-Developing good paragraph structure is also a key part of the editing process. Its perfectly fine to write as much as you can and get your ideas down on a page. However, you then need to go back, proof-read, and edit to make sure your writing is aligned with the PEEL structure. 
+Developing good paragraph structure is also a key part of the editing process. It's perfectly fine to write as much as you can and get your ideas down on a page. However, you then need to go back, proof-read, and edit to make sure your writing is aligned with the PEEL structure. 
 
 Key things to look out for are questioning whether your paragraph contains one key point. If you cannot summarise your paragraph or you are starting to list everything you are covering, its a sign you might need to break down your paragraph into two, and work on new topic and summary/link sentences. 
 
@@ -106,9 +104,9 @@ Likewise, you might see there is a paragraph with just one or two sentences, wit
 
 ## Using evidence 
 
-Any report you write as a researcher must be evidence based, otherwise it would be more of an opinion piece. To show what evidence is behind your claims, you must use citations in your report. In this section, we are focusing on the role of citations and how they show what evidence you are using. In the next section on APA formatting, you will learn more about the specific formatting requirements of the citations. 
+Any report you write as a researcher must be evidence-based, otherwise it would be more of an opinion piece. To show what evidence is behind your claims, you must use citations in your report. In this section, we are focusing on the role of citations and how they show what evidence you are using. In the next section on APA formatting, you will learn more about the specific formatting requirements of the citations. 
 
-It’s not enough to have a single citation at the end of a paragraph, or even a list of citations randomly put in. Every fact, point, opinion, and evaluation is likely to have come from someone else’s work or something that has influenced your thinking, so you should cite that source. You need to ensure that you cite the evidence you are using to make your point.
+It’s not enough to have a single citation at the end of a paragraph, or even a list of citations randomly put in. Every fact, point, and evaluation is likely to have come from someone else’s work or something that has influenced your thinking, so you should cite that source. You need to ensure that you cite the evidence you are using to make your point.
 
 Try to put the citation near or next to the point you are making to show where that specific point came from, rather than adding a list of citations at the end and expecting the reader to know which citation relates to each claim. 
 
@@ -145,7 +143,7 @@ Think about how the meaning and clarity of who said what changes with citation p
 
 ## APA formatting
 
-When you are writing a piece of work and use someone else's words, ideas, or findings, you must reference them and the specific work you are referring to. In psychology, we use the American Psychological Associations's (APA) reference style (7th edition). APA style also covers other aspects of formatting such as report headings, presenting tables and figures, and numbers, but we will introduce you to that in future weeks. 
+When you are writing a piece of work and use someone else's ideas or findings, you must reference them and the specific work you are referring to. In psychology, we use the American Psychological Associations's (APA) reference style (7th edition). APA style also covers other aspects of formatting such as report headings, presenting tables and figures, and numbers, but we will introduce you to that in future weeks. 
 
 You may have used other referencing systems in your previous degree (e.g., Harvard), but it is important you use APA for psychology in your current degree programme. Remember, a reference manager can really help with the heavy lifting here and do a lot of the formatting. But you still need to know APA 7 style well enough to spot when there might be errors. 
 
@@ -191,8 +189,8 @@ As an example, a reference entry should look like this:
 
 You start by listing each author by the last name, a comma, their initial(s), and a full stop. Authors are separated by "&", and after the final author, you include the year of publication in brackets with a full-stop at the end. You have the title of the article which is not in italics. You then have the name of the journal in italics, a comma, and the volume and issue number (in the format "volume number(issue number)"). The issue number is not always available, so you might only include the volume number after the journal name. Finally, you have the page numbers of the article, and DOI (digital object identifier). 
 
-::: {.warning data-latex=""}
-The one thing we cannot easily recreate in the chapters here is a final subtle formatting point. In the reference list, each entry has a hanging indent which you can create in Word or Google Docs. For example, see this resource on [how to include a hanging indent in Word](https://columbiacollege-ca.libguides.com/microsoft-word/indentation). 
+::: {.callout-warning}
+The one thing we cannot easily recreate in the chapters here is a final subtle formatting point. In the reference list, each entry has a hanging indent which you can create in Word or Google Docs. For example, see this resource on [how to include a hanging indent in Word](https://columbiacollege-ca.libguides.com/microsoft-word/indentation){target="_blank"}. 
 :::
 
 This demonstrated APA referencing for articles with two numbers, but there are two main differences you will come across. 
@@ -209,64 +207,13 @@ The second is when there are many authors. If there are more than 20 authors, th
 
 The APA style manual has over 700 pages, so we are not going to cover every type of resource. We have covered journal articles in detail, and the other two sources you will cite most often are books and websites. 
 
-::: {.try data-latex=""}
+::: {.callout-tip}
+#### Try this
 If you needed to cite and reference a book or website, how would you do it? Search the APA style resources to check what information you would need to include compared to a journal article. 
 :::
 
 There is an APA style website where they have two super useful pages:
 
-1. [Reference examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples) - This page shows examples of citations and references for different sources. 
+1. [Reference examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples){target="_blank"} - This page shows examples of citations and references for different sources. 
 
-2. [The APA style blog](https://apastyle.apa.org/blog) - The blog is a useful resource as it includes short articles where people ask questons on how they can format and style certain information. This can be useful for new technology or resources as they cover it before a new edition of the full style guide will be released. 
-
-## Academic integrity
-
-The final part of this week's material is considering how academic writing and using evidence relates to academic integrity. When you submit your work, we accept it on the understanding that is is your own effort and work that is unique to the set assignment. 
-
-Each assessment information sheet includes guidance and resources on avoiding plagiarism, the University of Glasgow's statement on the use of AI tools, and a statement on group work. You will see the same three items on each assessment information sheet on all your courses, but we adapt the items to reflect each assessment. 
-
-### Avoiding plagiarism
-
-To support you in understanding what plagiarism is and in avoiding it, please read the following resources that the University provides:
-
--	[SRC Advice and Support](https://www.glasgowunisrc.org/advice/)
-
--	[Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2023-24/feesandgeneral/studentsupportandconductmatters/reg33/) and [Plagiarism Statement](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2023-24/feesandgeneral/studentsupportandconductmatters/reg32/)
-
--	[Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/course/view.php?id=13038) (a Moodle course you can self-enrol in)
-
--	[Academic Advice in MVLS](https://www.gla.ac.uk/myglasgow/sld/writingstudyadvice/mvls/)
-
-### Using AI tools
-
-The advent of free AI tools is transforming our world and offers many opportunities to help us deal with large amounts of information. While we support students in learning how to use these tools to help them study, you should not submit for assessment something generated by an AI tool as though it is your own work as this would be considered plagiarism. Please carefully read the [University’s position on AI](https://www.gla.ac.uk/myglasgow/sld/ai/).
-
-The [Student Learning Development site](https://apastyle.apa.org/blog/how-to-cite-chatgpt) provides general guidance on how students should and should not use AI tools, but we wanted to highlight key points that relate to your RM1 assignments.
-
-We are not saying you should use AI tools and you can fully complete all the assignments without using them, but we recognise AI tools are changing how people study and work. If you do use them and include any text from AI tools such as ChatGPT, then you must cite how you used them in your work to acknowledge their source. The APA blog has an entry on [how you can cite and reference AI tools](https://apastyle.apa.org/blog/how-to-cite-chatgpt) like ChatGPT. 
-
-The following advice is adapted from the SLD resources on using AI tools to apply to the assessments you complete in RM1. 
-
-**What AI can do** 
-
-- Identify key points in text to summarise longer content. 
-
-- Help refine your wording like other AI tools you may not recognise as such, like Word/Google Doc grammar suggestions, or tools like Grammarly.
-
-- Help with problem solving to ask clearly defined questions, such as if you get an error message and you are trying to work out what the problem is. This is just like Googling error messages and looking for advice online. 
-
-**Key problems with AI tools**
-
-- They can get things wrong to produce incorrect or nonsensical output, so you need to know what you want to achieve. Avoid using AI tools as a blackbox where you cannot critically evaluate the output it is giving you. 
-
-- They can make things up, like false references to texts that do not exist, so be very careful if you try and use them to help literature searching. You still need your own critical evaluation skills to verify they are real resources that are providing reliable information. 
-
-- They may not have access to the latest sources, meaning its important to conduct your own literature searches. Free versions of these tools often have date limits for the data they are trained on, so the latest results they give you may be two or more years old. This means you still need to use your own literature reviewing skills to find the most up-to-date evidence. 
-
-- They have unknown data security, so you should never include your own or participant’s data. If you sign up for an account, you should not use the same password as your university email. You should never enter data into the tools as you do not know how it is being stored and reused without your knowledge. 
-
-- They are designed to mimic human writing, but it will lack your writing voice. You can use AI tools to help refine your writing like grammar checks, but try and avoid using it to write all your words (and remember, you must cite the AI tool if you use it to generate content). There may be a noticeable change in style between your writing and the output from these tools. For your own development as a student and academic, it is important to develop your own style and voice as a writer. 
-
-### Group work
-
-In RM1, we have a range of assessments, each with different expectations on whether you can work in a group or now. Yyou will see on the [stage 1 group report](#stage1-AIS) we fully expect you to work in groups to complete your assignment. On the other hand, on the [MCQ](#MCQ-AIS), we fully expect you to work independently without sharing your answers with other students. Make sure you check each assessment information sheet to see what elements of group work are permitted. 
+2. [The APA style blog](https://apastyle.apa.org/blog){target="_blank"} - The blog is a useful resource as it includes short articles where people ask questions on how they can format and style certain information. This can be useful for new technology or resources as they cover it before a new edition of the full style guide will be released. 

@@ -72,6 +72,8 @@ book:
       - 05-Writing-02-Reading.qmd
       - 05-Writing-03-Rationale.qmd
       - 05-Writing-04-Method.qmd
+      - 05-Writing-05-Writing.qmd
+      - 05-Writing-06-NHST.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
