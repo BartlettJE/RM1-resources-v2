@@ -10,17 +10,13 @@ library(knitr)
 
 After a hopefully refreshing reading week, we are back to the labs and looking more towards your stage two individual report. You can still ask questions about the stage one group report and some content might be useful to feed into it. However, the idea was to give you the key content you need for the stage one report prior to reading week, and the key content for the stage two report after reading week. 
 
-We organised the next two weeks similar to work through the structure of the results section, but with this week focused on reporting correlations, and next week focused on reporting t-tests. 
-
-This week, you will also learn about what information to report in a power analysis. Keep in mind this is more going above and beyond as you would typically find it in a method section, but because of the course schedule, we cannot fit it in until week 8 and 9 when your stage one report is due. If you do want to report a power analysis in your stage one report, then the first part of the research skills chapter works through it. 
-
-After reading about the structure of the results section applied to correlations, we have a task for you to compare different versions of a results section. This requires you to understand what information should be reported and recognise what information is present, absent, or inaccurate. The versions can be ranked to identify the best example, but even the best one can be improved. So, your task will be to rank the versions based on their strengths and weaknesses, then discuss what could be improved about the best one. 
+After reading about the structure of the results section, we have a task for you to compare different versions of a results section. This requires you to understand what information should be reported and recognise what information is present, absent, or inaccurate. The versions can be ranked to identify the best example, but even the best one can be improved. So, your task will be to rank the versions based on their strengths and weaknesses, then discuss what could be improved about the best one. 
 
 ## Tasks to complete prior to your lab
 
-1. Read through the [Reporting Power Analyses and Correlation Results](#Results1) chapter.
+1. Read through the [Structure of the Results](#Results1) chapter.
 
-2. Read through the [task context and comparison](#C7-task) section below to judge different attempts at writing up a correlation. 
+2. Read through the [task context and comparison](#C7-task) section below to judge different attempts at writing up a correlation (with the same lessons being applied to reporting a t-test). 
 
 ## Tasks to complete after attending your lab
 
@@ -30,9 +26,7 @@ After reading about the structure of the results section applied to correlations
 
 ## Next week
 
-We will continue with the structure of results sections, but this time, focus on reporting the results of a t-test. Many of the lessons from this week still apply, but there are subtle differences like discussing effect sizes as differences rather than relationships, and which visualisations are more appropriate. 
-
-We will also cover data visualisation more generally, like APA formatting guidance for tables and figures, and what we are trying to achieve with data visualisation. 
+In the week 8 lab, we will explore the structure of the discussion as the final major section of an empirical psychology report. This roughly mirrors the introduction but now you are putting your findings in context compared to the research that influenced your study. 
 
 ## Task context and comparison{#C7-task}
 
@@ -52,9 +46,9 @@ This study attempted to replicate the findings of [Wingen et al. (2020)](https:/
 
 The first measure was a 1-7 scale consisting of 5 items designed to assess participants' level of trust in the field of psychology. This scale aimed to gauge their overall confidence in the reliability and validity of psychological research. We then took the mean of the 5 items, where higher values mean greater trust. 
 
-The second measure involved participants estimating the percentage of findings from a set of 100 studies that would successfully replicate, from the [Open Science Collaboration (2015)](https://www.science.org/doi/10.1126/science.aac4716). This aspect of the study aimed to assess participants' perceptions of the field's ability to replicate research results.
+The second measure involved participants estimating the percentage of findings from a set of 100 studies that would successfully replicate, from the [Open Science Collaboration (2015)](https://www.science.org/doi/10.1126/science.aac4716){target="_blank"}. This aspect of the study aimed to assess participants' perceptions of the field's ability to replicate research results.
 
-The study was conducted as a replication effort to investigate if greater trust in the field of psychology would be associated with higher expectations of replicability. Our hypothesis was there would be a positive correlation between trust in psychology and estimates of replicability.
+The study was conducted as a replication effort to investigate if greater trust in the field of psychology would be associated with higher expectations of replicability. Our hypothesis was there *would* be a positive correlation between trust in psychology and estimates of replicability.
 
 Your task is to read these five versions and after considering their strengths and weaknesses: a) rank them from the best to the worst examples and b) think about what you would change to improve the best one. 
 

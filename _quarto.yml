@@ -66,6 +66,7 @@ book:
       - 04-Labs-03.qmd
       - 04-Labs-04.qmd
       - 04-Labs-05.qmd
+      - 04-Labs-07.qmd
   - part: 05-Writing-00.qmd
     chapters:
       - 05-Writing-01-MSLQ.qmd
@@ -74,6 +75,8 @@ book:
       - 05-Writing-04-Method.qmd
       - 05-Writing-05-Writing.qmd
       - 05-Writing-06-NHST.qmd
+      - 05-Writing-07-Results1.qmd
+      - 05-Writing-08-Results2.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
