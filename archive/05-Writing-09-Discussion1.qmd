@@ -5,7 +5,7 @@ library(knitr)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Data Processing and Structure of the Discussion{#processing-discussion1}
+# Structure of the Discussion{#processing-discussion1}
 
 ## Data processing guidance 
 
