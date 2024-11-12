@@ -2,7 +2,7 @@
 source(file = "include/deadlines.R")
 ```
 
-# Identifying Limitations and Structure of the Abstract{#limitations_abstract}
+# Limitations and Structure of the Abstract {#limitations_abstract}
 
 ## Identifying limitations
 
@@ -16,7 +16,7 @@ Before we start outlining common types of limitations, it is important for the f
 
 Limitations typically focus on your methods as they are elements you no longer have any control over. Clarke and colleagues have released some excellent articles on limitations in psychology articles and reinforce the idea of the four validities. These are not exhaustive and there are some limitations which cannot be classified this way, but we think it is a good way to develop an appreciation of what limitations are and provide inspiration for what features you might identify as limitations.
 
-We covered validity in lecture 2 alongside research design and reliability. Validity relates to the truth of an inference ([Clarke et al., 2023a](https://doi.org/10.1037/pspp0000458)), meaning how confident you can be in the conclusions you made from a given finding. The four validities relate to different elements that affect that confidence: 
+We covered validity in lecture 2 alongside research design and reliability. Validity relates to the truth of an inference ([Clarke et al., 2023](https://doi.org/10.1037/pspp0000458){target="_blank"}), meaning how confident you can be in the conclusions you made from a given finding. The four validities relate to different elements that affect that confidence: 
 
 1. External validity - how generalisable you think a finding is. 
 
@@ -26,7 +26,7 @@ We covered validity in lecture 2 alongside research design and reliability. Vali
 
 4. Statistical conclusion validity - whether your statistical approach can provide valid inferential statistics. 
 
-Before we outline the kind of features that you could question as a limitation, [Clarke et al. (2023b)](https://psyarxiv.com/386bh/) provide guidance on how to approach identifying limitations:
+Before we outline the kind of features that you could question as a limitation, [Clarke et al. (2024)](https://doi.org/10.1111/spc3.12979){target="_blank"} provide guidance on how to approach identifying limitations:
 
 - Focus on your most important limitations - avoid the temptation to list every limitation you can think of. It is not about undermining your study or distracting the reader, but highlighting one or two in detail and do them justice. 
 
@@ -34,7 +34,7 @@ Before we outline the kind of features that you could question as a limitation, 
 
 - Explain, don't excuse - You do not need to spin your limitations as a strength (think of a job interview where someone says "I'm too much of a perfectionist"), the critical reader is interested in how you can explain the implications of your limitations for the conclusions you make. 
 
-If you have time, we recommend reading the article from [Clarke et al. (2023b)](https://psyarxiv.com/386bh/) in full as they provide advice on better practice in outlining limitations, but for this chapter, we will summarise their key categories.
+If you have time, we recommend reading the article from [Clarke et al. (2024)](https://doi.org/10.1111/spc3.12979){target="_blank"} in full as they provide advice on better practice in outlining limitations, but for this chapter, we will summarise their key categories.
 
 #### External validity 
 
@@ -86,7 +86,7 @@ Hopefully, dedicating extra space to identifying limitations provides inspiratio
 
 The abstract is a summary of the entire report. It comes right at the very start and is the first thing people will read. That said, it is normally the last thing that people write as it summarises all the different sections of the report you will have already written. 
 
-The abstract highlights the key point or points from each section of the report: the introduction, the methods, the results, and the discussion. In other words, [Gernsbacher (2018)](https://doi.org/10.1177/2515245918754485) describes it as “A clear abstract states the study’s primary hypothesis; its major methodology, including its sample size and sampled population; its main findings, along with their summary statistics; and its key implications". Koopman (1997, cited in [Derntl, 2014](https://doi.org/10.1504/IJTEL.2014.066856)) suggests the following structure:
+The abstract highlights the key point or points from each section of the report: the introduction, the methods, the results, and the discussion. In other words, [Gernsbacher (2018)](https://doi.org/10.1177/2515245918754485){target="_blank"} describes it as “A clear abstract states the study’s primary hypothesis; its major methodology, including its sample size and sampled population; its main findings, along with their summary statistics; and its key implications". Koopman (1997, cited in [Derntl, 2014](https://doi.org/10.1504/IJTEL.2014.066856){target="_blank"}) suggests the following structure:
 
 - Motivation (General Area): Why do we care about the problem and the results? 
 
@@ -132,7 +132,7 @@ For some final formatting advice, it is normally written as one paragraph approx
 
 ### Breaking down an example abstract
 
-Looking at examples can help show how the ideas build up. Here is an adapted example from [Tsantani et al (2016)](https://doi.org/10.1177/0301006616643675) broken down to highlight the key components. 
+Looking at examples can help show how the ideas build up. Here is an adapted example from [Tsantani et al (2016)](https://doi.org/10.1177/0301006616643675){target="_blank"} broken down to highlight the key components. 
 
 #### Background and rationale
 
@@ -140,7 +140,7 @@ Looking at examples can help show how the ideas build up. Here is an adapted exa
 
 #### Methods
 
-> Vocal pitch has been found to influence judgments of perceived trustworthiness and dominance from a novel voice. However, the majority of findings arise from using only male voices and it is unclear how the pitch of female voices affects judgements of trust and dominance. Here we explore the influence of average vocal pitch on first-impression judgments of perceived trustworthiness and dominance and hypothesise that there will be a preference for low-pitched voices in both genders regardless of judgement.**40 pairs of high- and low-pitched temporally reversed recordings of male and female vocal utterances were presented in a two-alternative forced-choice task to 40 participants.** 
+> Vocal pitch has been found to influence judgments of perceived trustworthiness and dominance from a novel voice. However, the majority of findings arise from using only male voices and it is unclear how the pitch of female voices affects judgements of trust and dominance. Here we explore the influence of average vocal pitch on first-impression judgments of perceived trustworthiness and dominance and hypothesise that there will be a preference for low-pitched voices in both genders regardless of judgement. **40 pairs of high- and low-pitched temporally reversed recordings of male and female vocal utterances were presented in a two-alternative forced-choice task to 40 participants.** 
 
 #### Results
 
@@ -152,4 +152,4 @@ Looking at examples can help show how the ideas build up. Here is an adapted exa
 
 ### Conclusion
 
-This is our advice to learn the key components to include in an abstract. However, you will see a lot of variation in how people approach writing abstracts and standards have changed over time. For example, it was rare to include the sample size of your study, but this is now normally considered essential to include in the abstract. So, while we recommend looking over abstracts in articles from your literature review to develop a sense of style, try and do so critically as they might not be great examples.
+This is our advice to learn the key components to include in an abstract. However, you will see a lot of variation in how people approach writing abstracts and standards have changed over time. For example, it was rare to include the sample size of your study, but this is now considered essential to include in the abstract. So, while we recommend looking over abstracts in articles from your literature review to develop a sense of style, try and do so critically as they might not be great examples.
