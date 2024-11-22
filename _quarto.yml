@@ -69,6 +69,7 @@ book:
       - 04-Labs-07.qmd
       - 04-Labs-08.qmd
       - 04-Labs-09.qmd
+      - 04-Labs-10.qmd
   - part: 05-Writing-00.qmd
     chapters:
       - 05-Writing-01-MSLQ.qmd
