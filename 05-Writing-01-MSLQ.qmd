@@ -2,15 +2,63 @@
 source(file = "include/deadlines.R")
 ```
 
-# Registered Report and MSLQ Overview {#MSLQ-overview}
+# Registered Report and Project Options {#MSLQ-overview}
 
 ## General overview of the registered report
 
-In this course, we are preparing you to read and appraise journal articles, and write up an empirical quantitative research project yourself. Throughout the lectures, labs, and independent learning, you will learn how to formulate a research question, design a study, apply statistical analyses, and write up your results to communicate to others as a research report.
+In this course, we are preparing you to read and appraise journal articles, and write up an empirical quantitative research project yourself. Throughout the lectures, labs, and independent learning, you will learn how to formulate a research question, design a study, apply statistical analyses, and write up your results to communicate to others as a research report. 
 
-In your group, you decide on a topic and collectively write a stage one registered report ([see the stage one AIS](#stage1-AIS)) which contains an introduction and method section for how you plan on addressing your research question. Individually, you will then write a stage two registered report ([see the stage two AIS](#stage2-AIS)) which contains a results, discussion, and abstract section.
+In your group, you will decide on a topic and collectively write a stage one registered report ([see the stage one AIS](#stage1-AIS)) which contains an introduction and method section for how you plan on addressing your research question. Individually, you will then write a stage two registered report ([see the stage two AIS](#stage2-AIS)) which contains a results, discussion, and abstract section.
 
-You will be working with a secondary data set that we collected over the past few years. We have data from a few thousand students and you will be able to use the data to address a research question you develop in your group, within the parameters of the variables we have available. The rest of this chapter outlines the data set you will be working with in more detail, so please read through in advance of your first lab. 
+You have more than enough to learn about in this course without worrying about designing a study, applying for ethics, and collecting data yourselves. Therefore, we have developed two projects for you and your group to choose from and pick your own adventure. One focuses on sustainability and the other focuses on inclusion/belonging; which the British Psychological Society (BPS) identified as two key areas that psychology graduates can contribute to for evidence-based understanding, policy, and intervention. As psychology students, you will learn about research methods and statistics with an applied focus, to robustly and reproducibly address research questions relevant to psychology. 
+
+We have already designed and prepared the projects you will work with in your groups. You will write a stage one and stage two registered report from the perspective of the researcher as if you conducted the studies yourselves, but you will only help us to collect data and add to the participant pool. This reduces pressure and gives you time to focus on learning about research methods and statistics before you design your own studies in future courses and in your dissertation. Autonomy is important in education though, so you have the choice between two projects to vote on as a group, and within each project there is flexibility in the research questions you can develop. 
+
+The rest of this chapter outlines starter packs to learn more about the two projects and give you a starting point for your research, so please read through in advance of your first lab. 
+
+## Sustainability starter pack
+
+### Study background
+
+Eating meat is a key contributor to greenhouse gas emissions. One potential low cost intervention to reduce meat eating is using dynamic norms in the messaging behind adopting more sustainable behaviours. A dynamic norm is where you highlight the change of a norm over time, such as more people recently changing their behaviour to eat less meat. In contrast, a static norm describes it's current state. @sparkman_dynamic_2017 demonstrated that dynamic norms would lead to greater intention to eat less meat than static norms. However, studies like @aldoh_shifting_2024 have struggled to replicate the finding and question whether it translates to actual behaviour. In our study, we include items on meat eating but we also offer an extension opportunity to explore alternative types of sustainable behaviour such as using public transport and reusable cups/bottles. 
+
+### Why is this topic important? 
+
+The BPS highlight the role of psychology research in responding to challenges/opportunities relating to the United Nation’s (UN) [sustainable development goals](https://sdgs.un.org/goals){target="_blank"}. Psychologists have the tools to conduct research to inform evidence-based policy and interventions in addressing these goals. The goals most relevant to this project are 11 (sustainable cities and communities) and 13 (climate action).
+
+### Relevant theory 
+
+One popular theory relating to behaviour change is the COM-B model of behaviour [@michie_behaviour_2011]. The aim of this theory is to explain why a specific behavior occurs and how to create interventions that lead to effective change in that behaviour. The COM-B stands for capability (C), opportunity (O), and motivation (M), relating to a given behaviour (B). Ask yourselves the following questions:
+
+- How well regarded is the COM-B model? 
+
+- Does empirical evidence generally support it as a theory of human behaviour?
+
+- How might the COM-B model apply to understanding adopting more sustainable behaviours such as meat eating, using public transport, and using reusable cups/bottles? 
+
+- Based on the theory, what kind of effect do you predict to find? 
+
+### Research design 
+
+You will be unfamiliar with a lot of this terminology at the start of the course, but we outline it nice and early to help refine your research question and know what variables you will have available.
+
+There is one **independent variable** with two levels. We randomise participants into one of two groups: they receive a dynamic norm statement or they receive a static norm statement. 
+
+There are three potential **dependent variables** which measure interest in adopting a more sustainable behaviour. For this course, we heavily recommend choosing just one of the measures given the word count of the stage one and stage two registered report assessments. The three dependent variables are:
+
+1. How interested are you in eating less meat? We measure this on a 0 (not at all interested) to 100 (extremely interested) scale. 
+
+2. How interested are you in using more public transport? We measure this on a 0 (not at all interested) to 100 (extremely interested) scale. 
+
+3. How interested are you in using a reusable cup or bottle for takeout purchases? We measure this on a 0 (not at all interested) to 100 (extremely interested) scale. 
+
+### Potential research questions 
+
+- Opportunities:
+    - Replication: Do dynamic norms lead to greater intentions to eat less meat compared to static norms?
+    - Extension: Do dynamic norms impact alternative types of sustainable behaviour such as using more public transport or using reusable takeout cups?
+
+## Belonging starter pack
 
 ## Research project topic
 
