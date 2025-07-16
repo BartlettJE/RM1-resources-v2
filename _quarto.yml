@@ -52,6 +52,7 @@ book:
   - index.qmd
   - 01-Course_overview.qmd
   - 02-Resources.qmd
+  - 02-01-Employability.qmd
   - part: "Assessment and Feedback Information"
     chapters:
       - 03-AIS-01-groupagreement.qmd
