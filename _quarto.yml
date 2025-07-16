@@ -61,22 +61,12 @@ book:
       - 03-AIS-04-stage1.qmd
       - 03-AIS-05-stage2.qmd
       - 03-AIS-06-Projects.qmd
-  - part: "Labs"
-    chapters:
-      - 04-Labs-01.qmd
-      - 04-Labs-02.qmd
-      - 04-Labs-03.qmd
-      - 04-Labs-04.qmd
-      - 04-Labs-05.qmd
-      - 04-Labs-07.qmd
-      - 04-Labs-08.qmd
-      - 04-Labs-09.qmd
-      - 04-Labs-10.qmd
   - part: "Research and Writing Skills"
     chapters:
       - 05-Writing-02-Reading.qmd
       - 05-Writing-03-Rationale.qmd
       - 05-Writing-04-Method.qmd
+      - 05-Writing-12-Qualtrics.qmd
       - 05-Writing-05-power.qmd
       - 05-Writing-06-NHST.qmd
       - 05-Writing-07-Writing.qmd

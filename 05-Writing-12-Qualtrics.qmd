@@ -1,0 +1,23 @@
+```{r, echo=FALSE}
+library(knitr)
+```
+
+# Questionnaire and Task Design {#qualtrics}
+
+Although you will not be designing your own studies in RM1, you need to understand how we designed and built the projects you are working with. In future, it will be important you know how to create your own questionnaires and tasks using common tools and software once it comes to your dissertation and as a future employability skill. 
+
+## Common tools and software
+
+- Microsoft Forms
+
+- Qualtrics
+
+- Gorilla
+
+- Prolific
+
+## Questionnaires 
+
+## Tasks
+
+## Online vs in-person data collection
