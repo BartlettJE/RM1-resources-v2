@@ -1,9 +1,11 @@
 {
-  "hash": "b8fa23e644c0f8b800cfcd9ec2823fa9",
+  "hash": "f10218e07bc55d4653907c5a7c3b6abc",
   "result": {
     "engine": "knitr",
-    "markdown": "::: {.cell layout-align=\"center\"}\n\n:::\n\n\n\n\n\n# Questionnaire and Task Design {#qualtrics}\n\nAlthough you will not be designing your own studies in RM1, you need to understand how we designed and built the projects you are working with. In future, it will be important you know how to create your own questionnaires and tasks using common tools and software once it comes to your dissertation and as a future employability skill. \n\n## Common tools and software\n\n## Questionnaires \n\n## Tasks\n\n## Online vs in-person data collection\n",
-    "supporting": [],
+    "markdown": "::: {.cell layout-align=\"center\"}\n\n:::\n\n\n\n\n# Questionnaire and Task Design {#qualtrics}\n\nAlthough you will not be designing your own studies in RM1, you need to understand how we designed and built the projects you are working with. In future, it will be important you know how to create your own questionnaires and tasks using common tools and software once it comes to your dissertation and as a future employability skill. \n\n## Common tools and software\n\n- Microsoft Forms\n\n- Qualtrics\n\n- Gorilla\n\n- Prolific\n\n## Questionnaires \n\n## Tasks\n\n## Online vs in-person data collection\n",
+    "supporting": [
+      "05-Writing-12-Qualtrics_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
