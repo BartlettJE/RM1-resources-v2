@@ -6,18 +6,58 @@ library(knitr)
 
 Although you will not be designing your own studies in RM1, you need to understand how we designed and built the projects you are working with. In future, it will be important you know how to create your own questionnaires and tasks using common tools and software once it comes to your dissertation and as a future employability skill. 
 
+The key principle to keep in mind is this is a measurement problem. As psychologists, we want to investigate human behaviour and to do that we need the most valid, reliable, and pragmatic measure of human behaviour. Sometimes that will be a questionnaire or survey, other times it will be a task. It is important you know first how researchers create them and second how you can make them yourself. 
+
+In this chapter, we outline common tools and software you will have access to or will hear about, then explain some key principles in creating questionnaires, cognitive tasks, and considerations for collecting data in-person compared to online. 
+
 ## Common tools and software
 
-- Microsoft Forms
+There are a range of common tools you will come across as you read journal articles and talk to different lecturers. One of the most important considerations though is making sure any tools and software are GDPR compliant for data protection. When it comes to your dissertation, your supervisor will help with this. In this course, all the tools we recommend are GDPR compliant. As a starting point, the university maintains a [software and online tools](https://www.gla.ac.uk/myglasgow/it/softwareandonlinetools/){target="_blank"} page which outline all the major approved services. Just note that not all of the tools we outline below are included on this site as the page is mainly about the services that the university purchases. 
 
-- Qualtrics
+**Microsoft Forms**
 
-- Gorilla
+This Microsoft product is included in everyone's Office 365 suite. It is one of the university's preferred tools and we recommend using it for simple surveys. You can ask for free text responses or pre-set response options like select a category or rating scales. 
 
-- Prolific
+**Qualtrics**
+
+This is possibly the most common survey platform you will come across within universities and across different workplaces. It is incredibly popular for market research and feedback, so you will come across it even if you do not want to work in academia. It has more advanced functions than Microsoft Forms and it is what we use for the projects in RM1. You can add features like randomisation and branching between questions which makes it great for psychology research. 
+
+**Gorilla**
+
+Gorilla is an online experiment platform where you can create both surveys and a range of cognitive tasks. You can create simple experiments using the builder interface or with some Javascript programming, you can make incredibly complex experiments. If you just want to make surveys, then you are better off using Forms or Qualtrics. However, if you need cognitive tasks or build experiments alongside survey questions, it is probably the most user friendly tool to create online studies. 
+
+**PsychoPy**
+
+PsychoPy is a piece of software for developing cognitive tasks or experiments. It it based on Python, so you can either interact through the user interface or write Python code to build experiments. The software is local to a computer to collect data in-person or you can integrate it with their Pavlovia system to run experiments through a web browser. 
+
+**OpenSesame**
+
+OpenSesame is very similar to PsychoPy where it is a Python-based experiment builder featuring a user interface or the possibility to write Python code. There is also an online platform called OSWeb to run experiments in a browser. The two tools are very similar so it is more down to personal preference or what your supervisor already uses. 
+
+**Matlab**
+
+Matlab is a programming language for generating experiments, stimuli, and analysing data. The university provides access and many researchers have experience using Matlab over Python or PsychoPy. It is popular in brain imaging research due to extensive libraries supporting processing pipelines, but again it will be down to your supervisor's experience for whether they would support you using Matlab for a project. 
+
+**Prolific**
+
+One further tool you will hear about is Prolific - a participant recruitment service. In contrast to the previous tools, you do not create studies within Prolific, but integrate it with something like Gorilla or Qualtrics. You pay participants and select inclusion criteria from their participant pool and direct them to your study via a URL. Prolific has become one of the most popular recruitment services as it is GDPR compliant and recognised for higher participant quality. Many psychology studies use something called Amazon Mechanical Turk but it is not approved by many UK universities and the participant quality can be questionable given the far lower payment guidelines. 
 
 ## Questionnaires 
 
-## Tasks
+## Cognitive tasks and experiments
+
+The aim of learning how to use OpenSesame is to enable you to create psychology experiments that you can use in your research. However, what kind of experiments can you create and where do you find out how to create them? In all empirical psychology articles, there will be a method section outlining how the authors conducted their study. If this is written well enough, it should allow you to recreate their study as close as possible. In a lot of studies that use behavioural tasks, the authors provide diagrams of how their tasks are designed. The following diagram is from an EEG study by Rass et al. (2012). 
+
+[insert figure]
+
+In the second part of this section, we will create the task on the top which is called the Eriksen Flanker task. This follows a similar principle to the Stroop task as it aims to measure the impact of interference on task performance. However, instead of looking at word colour, it uses distracting information. The aim of the task is to identify the middle letter in a five letter string. The four outer letters are distractors, and on some trials they are congruent, and on others they are incongruent. Studies usually find that response times are slower in the incongruent condition than the congruent condition. 
+
+We will go through the diagram above step by step in order to decode how it is designed. In this experiment a trial consists of a central fixation cross which stays on the screen for a random interval between 150-250ms. This randomness is usually introduced to stop participants just mindlessly clicking buttons to predictable stimuli. A stimulus then appears on the screen for 80ms. This period is sometimes called the Stimulus Onset Asynchrony (SOA), or for how long the stimuli remain on the screen. There are two conditions for the stimuli: congruent (HHHHH or SSSSS) or incongruent (SSHSS or HHSHH). For this task, the participant has to identify the middle letter by pressing either the letter ‘s’ or ‘h’ on the keyboard. After the stimulus has disappeared, there is a blank screen where the participant has up to 800ms to provide a response. After the response, a blank screen is presented for 300ms. The participant is then provided feedback to let them know whether they pressed the correct button or not. A ‘+’ is shown for a correct response and a ‘-’ is shown for an incorrect response. Finally, an inter-trial interval (ITI; although confusingly this is called an inter-stimulus interval despite indicating the end of a trial) is shown on the screen for 500ms to indicate the end of a trial. 
+
+Now that we know how one trial is structured, we can see how many times this is repeated to form a block of trials. In the method section, there are more details about how many trials are included. In order for the participants to understand they are completing the task accurately, they are provided with 20 trials in a practice block. The authors then explain that participants completed four blocks each containing 100 trials for a total of 400 trials. Between each block there is a rest period for the participant, but it does not say how long this period is. We will provide participants with a short 30 second break. Finally, we know that there are an equal number of congruent and incongruent stimuli in each block. As we have two types of congruent and incongruent stimuli, we can take a good guess that each one of these is presented 25 times in each block. The authors provide us with a diagram of each trial, but we can visualise the structure of the whole experiment like this: 
+
+[insert figure]
+
+This is the amount of information you need from an article to enable you to recreate the task the authors used. This is a particularly good example with the only missing information being the duration of the breaks, a relatively minor detail. You should be prepared to come across substantially less helpful authors that do not provide sufficient details. This is usually the case when it comes to tasks that use images. These are not normally shared or even described. Hopefully this will also demonstrate the importance of fully describing your experiment in a report or dissertation. Try and imagine you are the other researcher trying to recreate the task from your instructions. Now that we know how the task is designed, the next step is to recreate it in OpenSesame. 
 
 ## Online vs in-person data collection
