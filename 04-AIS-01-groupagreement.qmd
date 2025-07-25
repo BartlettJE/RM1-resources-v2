@@ -6,7 +6,7 @@ source(file = "include/deadlines.R")
 
 ## General information
 
-We use the group work agreement to outline how you and your group will work and communicate with each other, and ensure you are engaging in the group work process for the [stage one group report](#stage1-AIS). Groups typically experience problems when communication and task responsibilities are built on unspoken assumptions. As you probably do not know the people in your group when we make the allocations, we start the project by facilitating a discussion with you and your group so you can openly outline how you will communicate, [respect diversity](#group-work-advice), and [split tasks](#stageone-planning). 
+We use the group work agreement to outline how you and your group will work and communicate with each other, and ensure you are engaging in the group work process for the [stage 1 group report](#stage1-AIS). Groups typically experience problems when communication and task responsibilities are built on unspoken assumptions. As you probably do not know the people in your group when we make the allocations, we start the project by facilitating a discussion with you and your group so you can openly outline how you will communicate, [respect diversity](#group-work-advice), and [split tasks](#stageone-planning). 
 
 - This is a formative task and is **not** part of the summative assessment for the course, but everyone **must** complete the task. We use the group work agreement as a way of identifying engagement and potential problems as early as possible. The course or programme leads will contact students who **do not** submit their group work agreement and students will potentially be placed on an individual submission if they do not engage with their groups. 
 
@@ -54,13 +54,13 @@ In addition, there may be other elements of group work that you and your group w
 
 ### Guidelines 
 
-Below are some guidelines to organise and manage your group project for the stage one report. You are welcome to adapt some of these guidelines to suit your group and the nature of the project. However, in the event we need to mediate difficulties, this will involve you providing evidence as record/evidence of collaboration (or lack thereof). Please be mindful of this when conducting your project.
+Below are some guidelines to organise and manage your group project for the stage 1 report. You are welcome to adapt some of these guidelines to suit your group and the nature of the project. However, in the event we need to mediate difficulties, this will involve you providing evidence as record/evidence of collaboration (or lack thereof). Please be mindful of this when conducting your project.
 
 **Set up your group Teams chat/channel and a Microsoft Planner for your group**
 
 - DO: Create a Teams chat for communication with your group.
 
-- DO: Create a Microsoft Planner with all members of your group to assign individual tasks (we recommend copying [this Planner template for the stage one group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"} we have created. Please copy the Planner, do not edit it.).
+- DO: Create a Microsoft Planner with all members of your group to assign individual tasks (we recommend copying [this Planner template for the stage 1 group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"} we have created. Please copy the Planner, do not edit it.).
 
 - DON’T: Use WhatsApp, Facebook or WeChat etc. to coordinate your project as that excludes people who cannot access this technology in some countries.
 
@@ -90,7 +90,7 @@ Below are some guidelines to organise and manage your group project for the stag
 
 **Determine strengths and assign roles**
 
-- DO: Consult the [Stage one group work planning advice section below](#stageone-planning) to identify the strengths/preferences of your team.
+- DO: Consult the [Stage 1 group work planning advice section below](#stageone-planning) to identify the strengths/preferences of your team.
 
 **Assign tasks/milestones to roles** 
 
@@ -138,9 +138,9 @@ Below are some guidelines to organise and manage your group project for the stag
 
 **Imposter syndrome**: It does not matter how we might be coping, sometimes it is impossible to avoid feeling like you or your work might not be good enough. If you are anxious about sharing something with your group, seek feedback from someone you trust first for their advice. Do not be afraid to make mistakes. Think about your shared documents as ‘working drafts’. Do not think you have to be anything other than who you are with your group. The pressure of thinking you must pretend to be a “model” student or meet the perceived expectations of others can get in the way of your being able to contribute your unique skills and experience.
 
-## Stage one group work task sharing advice {#stageone-planning}
+## Stage 1 group work task sharing advice {#stageone-planning}
 
-As you start working in your groups, one key decision will be sharing out the tasks equitably. In the stage one report template, there are several sections and sub-sections to complete. For each component, try to summarise the following when you first meet with your group:
+As you start working in your groups, one key decision will be sharing out the tasks equitably. In the stage 1 report template, there are several sections and sub-sections to complete. For each component, try to summarise the following when you first meet with your group:
 
 - What information have you already established in that section?
 
@@ -176,7 +176,7 @@ For example, you might separate the tasks as:
 
 - **Method design and data analysis**: Sarune and Wil will lead on this section. 
 
-You might choose to separate the tasks differently, but this is one suggestion to work through. We support this [the Planner template for the stage one group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"}, so we recommend at least starting with this plan and allocate roles, and then adapt as you need. 
+You might choose to separate the tasks differently, but this is one suggestion to work through. We support this [the Planner template for the stage 1 group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"}, so we recommend at least starting with this plan and allocate roles, and then adapt as you need. 
 
 For this separation or another approach you agree in your group, question what you know, what you still need to think about, and how you will fill in the blanks:
 

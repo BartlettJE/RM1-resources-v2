@@ -38,11 +38,11 @@ By the end of the course, you will be able to:
 
     - Two data skills worksheets using R/RStudio, each worth 7.5%.
 
-- **Stage one group report (30%)**
+- **Stage 1 group report (30%)**
 
     - Group submission of a planned introduction and method to answer a research question you develop. 
     
- - **Stage two individual report (50%)** 
+ - **Stage 2 individual report (50%)** 
  
     - Individual submission of a reproducible research report containing an abstract, results, and discussion that address the research question you developed in your group. 
 
