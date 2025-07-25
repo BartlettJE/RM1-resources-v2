@@ -6,13 +6,17 @@ source(file = "include/deadlines.R")
 
 ## General information
 
-You must answer a set of multiple-choice questions that relate to the course content covered in weeks 1-4. This includes lectures, data skills, labs, and academic writing tutorials. 
+You must answer a set of 22 multiple-choice questions that relate to the course content covered in weeks 1-4. This includes lectures, labs, data skills, and research skills. 
 
 - In total, this assessment is worth 5% of your final course grade. 
 
 - The deadline for submitting the MCQ is **`r MCQ_due`**. 
 
-- The quiz will open one week prior to the deadline, so you can complete the quiz in your own time. However, you must start and finish the quiz in one sitting. Once you start, you **must** finish. 
+- You will have **two** attempts to complete the quiz and the **highest** grade will count. So that you get a good sense of where your knowledge and skills are at, please complete the first attempt **without** referring to any notes, the textbook, or any AI tools. On the second attempt, you can use whatever resource you want. The reason we have done this is to provide a safety net so that you can check your learning without the pressure of it affecting your grade.
+
+- The quiz will open one week prior to the deadline, so you can complete the quiz in your own time. However, during each attempt, you must start and finish the quiz in one sitting. Once you start, you **must** finish. 
+
+- You have a total of 30 minutes to complete each sitting but you may find that you do the quiz much quicker than that, and that it completely fine. If you are registered with disability services and have an adjustment, you will be given extra time to complete the quiz depending upon your adjustment. If you think you should have extra time but it is not showing on Moodle, please contact James or Thinh **before** starting the quiz. 
 
 ## How to do well in this assessment
 
@@ -32,7 +36,7 @@ You must answer a set of multiple-choice questions that relate to the course con
 
 - Testing your knowledge of the course content helps you actively engage with the material, meaning you will learn more.
 
-- Distributed practice is important for learning, so have a few low-stakes assessments early in the course to encourage you to keep up with the content, while being low weighted to reduce the pressure on your overall course grade.
+- Distributed practice is important for learning, so we have a few low-stakes assessments early in the course to encourage you to keep up with the content, while being low weighted to reduce the pressure on your overall course grade.
 
 - Engaging with the material on the course will help build a strong foundation for the rest of the RM1 course and your subsequent assessments. 
 
