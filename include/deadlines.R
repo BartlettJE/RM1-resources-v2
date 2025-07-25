@@ -1,4 +1,4 @@
-study_year <- "2024 / 2025"
+study_year <- "2025 / 2026"
 
 groupagreement_due <- "October 11th 2024"
 

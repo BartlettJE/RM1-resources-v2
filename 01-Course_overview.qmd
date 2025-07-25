@@ -1,17 +1,12 @@
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 source(file = "include/deadlines.R")
-
-library(readxl)
-library(knitr)
-library(tidyverse)
-library(lubridate)
 ```
 
 # Course Overview {#Course_overview}
 
-Welcome to your Research Methods 1 `r study_year` course on the MSc Psychology Conversion programme! We will introduce you to how psychologists use quantitative research methods to answer their research questions. There are many components that go into understanding and applying the techniques you will learn about, so throughout the semester we will cover fundamental research methods and statistics concepts, data skills to work with quantitative psychology data, and research skills to develop your understanding of reading and writing quantitative psychology reports. 
+Welcome to your PSYCH5088 Research Methods 1 **`r study_year`** course on the MSc Psychology Conversion programme! We will introduce you to how psychologists use quantitative research methods to answer their research questions. There are many components that go into understanding and applying the techniques you will learn about, so throughout the semester we will cover fundamental research methods and statistics concepts, data skills to work with quantitative psychology data, and research skills to develop your understanding of reading and writing quantitative psychology reports. 
 
-This book provides supporting information for the course such as the assignments you will complete, what content you will cover in the labs, and resources to support research and writing. Please take the time at the start of the course to read the following course overview and learn where your sources of support are. You will keep referring back to this book throughout the semester as you progress through the labs and you approach each assignment.
+This book provides supporting information for the course such as the assignments you will complete and resources to support research and writing. Please take the time at the start of the course to read the following course overview and learn where your sources of support are. You will keep referring back to this book throughout the semester as you progress through the labs and you approach each assignment.
 
 ## Intended Learning Outcomes
 
@@ -46,19 +41,20 @@ By the end of the course, you will be able to:
 - **Stage one group report (30%)**
 
     - Group submission of a planned introduction and method to answer a research question you develop. 
- - **stage two individual report (50%)** 
+    
+ - **Stage two individual report (50%)** 
  
-    - Individual submission of an abstract, results, and discussion that address the research question you developed in your group. 
+    - Individual submission of a reproducible research report containing an abstract, results, and discussion that address the research question you developed in your group. 
 
 Please check the Assessment and Feedback Information Sheet chapters for detailed information and deadlines.
 
 ## Course overview
 
-Below is a provisional order of content for this course. We will notify you of any changes in advance, but feel free to read ahead to help you plan:
+Below is a provisional timetable for this course to show you what we will cover in the lecture, lab, research skills and data skills each week, in addition to where your assessments will be. We will notify you of any changes in advance, but feel free to read ahead to help you plan:
 
-Download this Word file: [RM1 Face to Face Timetable 2024/2025](Supporting/RM1_F2F_Timetable_2425.docx)
+Download this Word file: [PSYCH5088 RM1 Timetable](Supporting/RM1_F2F_Timetable.docx)
 
-**Last updated:** 11/09/2024
+**Last updated:** 25/07/2025
 
 ## Available support
 
@@ -68,9 +64,9 @@ There is a lot of support in this course to help you build your knowledge and un
 
 - Graduate Teaching Assistant (GTA) support sessions in-person and online;
 
-- Teams channel for discussion, questions, and support;
+- RM1 Teams channel for discussion, questions, and support;
 
-- Student Office Hours (sometimes called Student Drop-in Hours) - just turn up and ask anything;
+- Student Office Hours (sometimes called Student Drop-in Hours) - just turn up and ask your course leads of lab lead anything;
 
 - Assessment information sheets and common questions and answer documents to support assignments.
 
@@ -80,7 +76,7 @@ However, please note we would ask that you do not send questions, either about a
 
 ## GTA data skills support sessions
 
-Building your data skills primarily comes from self-directed learning as you work through the [Fundamentals of Quantitative Research Methods book](https://psyteachr.github.io/quant-fun-v3/){target="_blank"} we have developed. These walk through learning R/RStudio and applying data skills such as wrangling data, visualisation, and inferential statistics. However, we appreciate you may have questions or encounter errors you cannot work out on your own. That is why we schedule weekly support sessions with our GTAs. 
+Building your data skills primarily comes from self-directed learning as you work through the [Fundamentals of Quantitative Research Methods book](https://psyteachr.github.io/quant-fun-v3/){target="_blank"} we have developed. These walk through learning R/RStudio and applying data skills such as wrangling data, visualisation, and inferential statistics. There are also walkthrough videos for most of the chapters and several check-in labs over the semester dedicated to data skills. However, we appreciate you may have questions or encounter errors you cannot work out on your own. That is why we schedule weekly support sessions with our GTAs. 
 
 The GTA support sessions are drop-in sessions, meaning they are not timetabled classes you must attend. They are there to go to if you have a problem, and you can come and ask questions. Our GTAs may demonstrate techniques or how to fix problems, but they are not intended to be chapter walkthroughs. The idea is you engage in self-directed study, and then you can come to the support sessions if you encounter problems. 
 
@@ -88,7 +84,9 @@ Early in the semester, the support sessions have open invites. This means anyone
 
 ## Believe in yourself!
 
-This course, and the knowledge and skills we will help you learn, is new to everybody. The phrase we hear most often is "everyone else must already know this?!". If you already knew the content, you would not be on this course or programme. We have a diverse cohort of students where some come from a science background while others do not, but no one has covered this combination of quantitative research methods in psychology. It might be challenging and take some trial and error, but every single one of you can do this. 
+Our students have an extremely diverse range of backgrounds, so we assume the knowledge and skills we will help you to learn are new to everybody. The phrase we hear most often is: "everyone else must already know this?!". If you already knew the content, you would not be on this course or programme. Some of you come from a science background while some of you do not, but no one has covered this combination of quantitative research methods in psychology. 
+
+It might be challenging and take some trial and error, but every single one of you *can* do this. Research methods and statistics might not be everyone's favourite course, but it is our job to convince everyone that you *can* do it and it is a critical part of psychology training. 
 
 ## Acknowledgements 
 
