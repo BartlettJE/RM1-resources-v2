@@ -52,29 +52,29 @@ book:
   - index.qmd
   - 01-Course_overview.qmd
   - 02-Resources.qmd
-  - 02-01-Employability.qmd
+  - 03-Employability.qmd
   - part: "Assessment and Feedback Information"
     chapters:
-      - 03-AIS-01-groupagreement.qmd
-      - 03-AIS-02-MCQ.qmd
-      - 03-AIS-03-dataskills.qmd
-      - 03-AIS-04-stage1.qmd
-      - 03-AIS-05-stage2.qmd
-      - 03-AIS-06-Projects.qmd
+      - 04-AIS-01-groupagreement.qmd
+      - 04-AIS-02-MCQ.qmd
+      - 04-AIS-03-dataskills.qmd
+      - 04-AIS-04-stage1.qmd
+      - 04-AIS-05-stage2.qmd
+      - 04-AIS-06-Projects.qmd
   - part: "Research and Writing Skills"
     chapters:
-      - 05-Writing-02-Reading.qmd
-      - 05-Writing-03-Rationale.qmd
-      - 05-Writing-04-Method.qmd
-      - 05-Writing-12-Qualtrics.qmd
-      - 05-Writing-05-power.qmd
-      - 05-Writing-06-NHST.qmd
-      - 05-Writing-07-Writing.qmd
-      - 05-Writing-08-Results1.qmd
-      - 05-Writing-09-Results2.qmd
-      - 05-Writing-10-Discussion1.qmd
-      - 05-Writing-11-Abstracts.qmd
-  - 06-References.qmd
+      - 06-Writing-01-Reading.qmd
+      - 06-Writing-02-Rationale.qmd
+      - 06-Writing-03-Method.qmd
+      - 06-Writing-04-Qualtrics.qmd
+      - 06-Writing-05-power.qmd
+      - 06-Writing-06-NHST.qmd
+      - 06-Writing-07-Writing.qmd
+      - 06-Writing-08-Results1.qmd
+      - 06-Writing-09-Results2.qmd
+      - 06-Writing-10-Discussion1.qmd
+      - 06-Writing-11-Abstracts.qmd
+  - 07-References.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

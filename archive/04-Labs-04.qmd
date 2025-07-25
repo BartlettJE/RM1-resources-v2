@@ -6,38 +6,28 @@ source(file = "include/deadlines.R")
 
 ## Lab overview
 
-Last week, you explored the introduction section as the first major part of a report. We wanted to cover what content goes into the introduction and report first to help orient you when you search for literature to include in your own reports. This week, we want to spend time on academic writing as a skill and process as its particularly relevant to the introduction and writing longer pieces of prose. 
+This week, we are moving on to the second major section of a report. Keeping the hourglass shape in mind, the method section forms the first narrow part focusing exclusively on your study. The method outlines how you designed your study and follows a standardised series of sub-sections to outline who your participants were, what materials you used, how participants completed your study, and how you approached the data analysis. 
 
-There are three key components you will cover in the lab and resources this week: academic writing and paragraph structure, using evidence, and the use of generative AI. 
-
-After reading the research skills chapter on academic writing, your pre-lab task is to attempt rewriting four extracts to shorten them and/or improve clarity and post your attempts to the Padlet board. The start of the lab will then discuss how you can approach rewriting the extracts and the editing process in general. The group element of the lab will then give you time to summarise your rationale, research question, and hypothesis, and discuss it with your lab leads. You will also have the opportunity to discuss how the content on academic writing could help you work on the stage one group report. 
+In the lab, we will use an activity to demonstrate principles of reproducibility. After breaking down each sub-section of the method, you will discuss in your groups all the areas containing researcher degrees of freedom to decide on and justify. 
 
 ## Tasks to complete prior to your lab
 
-1. Read the [Academic Writing and Academic Integrity](#academic-writing) research skills chapter. 
+1. Read the [Structure of the Method section](#method-section) research skills chapter. 
 
-2. Read the sentences to edit and improve: 
+2. Complete the [MSLQ study](https://exp.psy.gla.ac.uk/project?SRLproject&guest){target="_blank"} as a participant. This will both help with learning the materials and procedure you will be reporting, and add more data to the pool to analyse. We have posted a screencast of the study on Moodle, so there is no pressure to complete the study as a participant if you do not want to. 
 
-    - **Sentence 1**: A number of studies have originated a relationship between sleep and paranoia, so there is now a very clear and well-established relationship between sleep and paranoid thinking. The next research step will be to examine and identify by what method sleep and paranoid thinking are related (Reeve et al., 2015).
-
-    - **Sentence 2**: Research has shown that when visually inspecting faces that are rated as attractive, there is an increase in activity in the parts of the brain associated with processing rewards and pleasant things, than when viewing faces rated as being unattractive (Aharon et al., 2001).
-
-    - **Sentence 3**: It has been estimated that about 10% of people who are older than 65 and about fifty percent of people who are older than 85 years, have a diagnosis of a very serious condition termed Alzheimer’s Disease.
-    
-    - **Sentence 4**: Research over the years has shown that there has been a huge increase in the number of anti-depressant prescriptions. Of all the medications on the market, anti-depressant prescriptions are the ones most commonly prescribed in the United States. 
-
-3. Post your redrafts anonymously to the [Padlet board on the rewriting exercise](https://padlet.com/jebartlett94/rm1-week-4-rewriting-exercise-n60gg532j31fgdk2) under their respective columns. 
+3. You will need a pen/pencil and a piece of paper (or electronic if you have a tablet to draw with) to bring to the lab. 
 
 ## Tasks to complete after attending your lab
 
-1. Finalise your rationale, research question, and hypothesis (if applicable) in your group.
+1. If you have not already allocated tasks, look back at the [stage one task sharing advice](#stageone-planning). Now you know about the method section, think about what details you know about, what you do not know yet, and how you will find out what you do not know. Identify all the researcher degrees of freedom in your method and think about which decisions you can justify. 
 
-2. Reflect on how the academic writing and academic integrity content from this week will help your stage one group report, and in your future stage two individual report. 
+2. For inspiration on the writing the method, read the method section (pages 2 and 3) of the article [*Registered Replication Report: Testing Disruptive Effects of Irrelevant Speech on Visual-Spatial Working Memory*](https://jeps.efpsa.org/articles/10.5334/jeps.450){target="_blank"} by Kvetnaya (2018). One component that might feel a little odd is writing the participants section when you do not know the final sample. It might be useful to refer to Kvetnaya's original [stage one version online](https://osf.io/j4475){target="_blank"} to see how she framed the planned sample before the wording changed in the final article. You will also notice the sub-sections are slightly different to what we recommend. 
+
+3. Finalise your rationale, research question, and hypothesis (if applicable) in your group.
 
 ## Next week 
 
-In the final lab before reading week, we will explore the method section of a report. Method sections are largely standardised to contain several sub-sections you will see in most empirical quantitative articles, so we will break down the key content such as explaining who your participants are and what materials you used.
+After week 4, we have explored both major sections you need for your stage 1 group report. There are still things we do not expect you to know yet, such as the specific statistical test you will need to test your research question, but you will at least know where they go once you have developed this knowledge. So, make sure you discuss in your groups how you plan on splitting tasks now you have a better insight into the method. 
 
-For the pre-lab reading, we have guidance on the structure and content of method sections. The pre-lab activities will involve sharing your group's research question and hypothesis (if applicable), and the lab will begin by exploring what each group is working on. 
-
-
+Next week, there will be a pause to the report sections focus in the labs. We will have our first main R focused lab as a check-in. You will complete a pair programming activity to work on wrangling the data extract we shared to help you develop your stage 1 group report. The data you receive for your stage 2 individual report will be in the exact same format, just containing way more participants. Until this point, you will have developed your data wrangling skills in the quant fundamentals books, so we will have a few structured tasks to work on in pairs. 
