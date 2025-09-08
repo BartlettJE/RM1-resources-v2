@@ -211,3 +211,5 @@ Given you do not create your own study in RM1, we do not expect you to spend the
 - In the reading list for RM1, we have included a link to Building Experiments in PsychoPy (2nd edition) by Peirce et al. (2022) which you can access via the library. This books explains how to create behavioural tasks using PsychoPy. 
 
 - Similarly, we also included a link to Python for Experimental Psychologists (2nd edition) by Dajmaier et al. (2024) which also demonstrates how to code experiments and analyses using Python and PsychoPy. 
+
+- This video by Xiaojin Ma is quite long, but it walks through [Using PsychoPy to build a cognitive psychology experiment from scratch](https://youtu.be/CMJXEEA7Rvc?si=ykhTqeCJPogiAvuQ){target="_blank"}.
