@@ -10,7 +10,7 @@ We use the group work agreement to outline how you and your group will work and 
 
 - This is a formative task and is **not** part of the summative assessment for the course, but everyone **must** complete the task. We use the group work agreement as a way of identifying engagement and potential problems as early as possible. The course or programme leads will contact students who **do not** submit their group work agreement and students will potentially be placed on an individual submission if they do not engage with their groups. 
 
-- The deadline is **`r groupagreement_due`**, where everyone in the group must submit an individual signed copy of the agreement you worked on.
+- The deadline is **`r groupagreement_due`**, where everyone in the group must submit an individual copy of the agreement on Moodle.
 
 - Although you will agree on the document as a group, each group member must then **individually** sign (electronic or a printed name, you do not need to physically sign it) and upload a copy to the submission portal. 
 
@@ -24,7 +24,7 @@ The **mandatory** points are:
 
 1. As a student of the University of Glasgow, I will treat all members of my group with dignity and respect.
 
-2.	I have read and agree to abide by the Student code of conduct and the Dignity at work and study policy.
+2.	I have read and agree to abide by the [Student code of conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2022-23/feesandgeneral/studentsupportandconductmatters/reg33/) and the [Dignity at work and study policy](https://www.gla.ac.uk/myglasgow/equalitydiversity/policy/dignityatwork/#d.en.266840.).
 
 3.	We all agree to communicate with each other openly and tell the course leads well in advance should any issues arise.
 
@@ -32,7 +32,9 @@ The **mandatory** points are:
 
 5.	We all agree to contribute to the group project and complete the assigned tasks by a deadline agreed by the group. 
 
-In addition, there may be other elements of group work that you and your group want to include. Here is a list of items you may want to discuss with your group and add to the document:
+6. We all agree that if AI tools are used in any part of the Stage 1 report, this will be discussed within the group, acknowledged transparently, and each member will take responsibility for ensuring that the final submission meets academic integrity standards in line with the University of Glasgow’s policies. 
+
+In addition, there may be other elements of group work that you and your group want to include. You are welcome to create your own additional items but here is a list of potential items you may want to discuss with your group and add to the document:
 
 - We all agree to establish a common timeline for the project and discuss any deviations from the timeline together as a group.
 
@@ -52,73 +54,57 @@ In addition, there may be other elements of group work that you and your group w
 
 ## Effective group work advice {#group-work-advice}
 
-### Guidelines 
-
-Below are some guidelines to organise and manage your group project for the stage 1 report. You are welcome to adapt some of these guidelines to suit your group and the nature of the project. However, in the event we need to mediate difficulties, this will involve you providing evidence as record/evidence of collaboration (or lack thereof). Please be mindful of this when conducting your project.
+Below are some suggestions to organise and manage your group project for the stage 1 report. You are welcome to adapt some of these guidelines to suit your group and the nature of the project. Group work is a critical part of the BPS standards and every workplace will involve some element of splitting a larger output into smaller components for each member to work on. We use the group work agreement process and these guidelines to suggest different ways of working and you can choose the most effective set that suites your group. However, in the event we need to mediate difficulties, this will involve you providing evidence as record/evidence of collaboration (or lack thereof). Please be mindful of this when conducting your project.
 
 **Set up your group Teams chat/channel and a Microsoft Planner for your group**
 
-- DO: Create a Teams chat for communication with your group.
+- Create a Teams chat for communication with your group. This part is non-negotiable as it is the university approved communication system which all students have access to. 
 
-- DO: Create a Microsoft Planner with all members of your group to assign individual tasks (we recommend copying [this Planner template for the stage 1 group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"} we have created. Please copy the Planner, do not edit it.).
-
-- DON’T: Use WhatsApp, Facebook or WeChat etc. to coordinate your project as that excludes people who cannot access this technology in some countries.
+- Consider creating a Microsoft Planner with all members of your group to assign individual tasks.
 
 **Coordinate work schedules/calendars**
 
-- DO: Be open about when you can meet/study, if you have a busy period coming up, or might be unavailable.
+- Be open about when you can meet/study, if you have a busy period coming up, or might be unavailable.
 
-- DO: Schedule a regular ‘check-in’ time. This does not need to be a live meeting but stay connected regularly.
-
-- DON’T: Commit to meetings/time frames that will not work for your timetable or work schedule. 
+- Schedule a regular ‘check-in’ time. This does not need to be a live meeting but stay connected regularly.
 
 **Agree on document collaboration platforms**
 
-- DO: We recommend having a shared OneDrive folder or sharing documents within your Teams channel using the files tab.
+- We recommend having a shared OneDrive folder or sharing documents within your Teams channel using the files tab.
 
-- DO: Use track changes and comments on shared documents.
+- Consider using track changes and comments on shared documents when editing to avoid immediately overwriting other people's work.
 
-- DO: Think about a shared Zotero, EndNote, or similar reference manager to organise papers.
+- Think about a shared Zotero library to organise papers from your literature review.
 
 **Work back from the deadline to create milestones**
 
-- DO: Be mindful of your work/life balance and upcoming busy periods.
-
-- DO: Agree on specific dates to complete your responsibilities.
-
-- DON’T: Leave things to the last minute.
+- Agree on specific dates to complete your responsibilities. Life happens though, so make sure you communicate with your group if you are falling behind and you can discuss revised deadlines. 
 
 **Determine strengths and assign roles**
 
-- DO: Consult the [Stage 1 group work planning advice section below](#stageone-planning) to identify the strengths/preferences of your team.
+- Consult the [Stage 1 group work contributor section below](#stageone-planning) to identify the strengths/preferences of your team.
+
+- Remember though: we expect most of the course content to be new or you would not be enrolled on this degree. You will often need to go outside your comfort zone to develop. 
 
 **Assign tasks/milestones to roles** 
 
-- DO: Attach names and dates to tasks and assign milestones using the Microsoft Planner template.
+- Attach names and dates to tasks and assign milestones using something like Microsoft Planner.
 
-- DO: Reassign tasks/adjust deadlines as the project progresses if you need to.
-
-- DON’T: Assign time-sensitive roles that might clash with someone’s known upcoming commitments.
+- Reassign tasks/adjust deadlines as the project progresses if you need to.
 
 **Communicate, communicate, communicate**
 
-- DO: Check-in regularly.
+- Check-in regularly. Everyone will understand if there was a delay in completing a task but the most problematic thing for group dynamics is not keeping everyone up to date with progress and delays. 
 
-- DO: Agree to action points at the end of meetings and put these in writing (e.g., in a shared document / to-do list).
+- Agree to action points at the end of meetings and put these in writing (e.g., in a shared document / to-do list). It is super easy to forget what you discussed, so make sure you keep a note to refer to after meetings. 
 
-- DO: Let your group know if you are struggling with a task/milestone.
+- The content is new for everyone and you have a lot to learn in a short space of time, so be kind and compassionate (to yourself and others).
 
-- DO: Be kind and compassionate (to yourself and others).
+**Submit your assessment**
 
-- DON’T: Take things personally. We all know text/online communication can sound differently from how it is intended.
+- Assign **one** person to prepare and submit the final documents when everyone has approved them. Remember to turn off track changes and delete any comments.
 
-**Submit your Assessment**
-
-- DO: Assign **one** person to prepare and submit the final documents when everyone has approved them. Remember to turn off track changes.
-
-- DO: Give yourself time to look at the Turnitin Report.
-
-- DON’T: Forget to check you are uploading the correct intended file.
+- Give yourself time to look at the Turnitin Report and factor in editing time.
 
 ### Points about inclusivity
 
@@ -130,17 +116,9 @@ Below are some guidelines to organise and manage your group project for the stag
 
 **Neurodiversity**: Different people work and think in different ways. If someone discloses that they find particular things challenging, or that they are at their best with a particular type of task or activity, consider how you can support/reflect this in the allocation of roles and tasks.
 
-### Supporting self-efficacy/group dynamics
-
-**Ostracism**: Group dynamics can be one of the trickiest things to manage in a project, especially if you feel like you are the “new person” coming into an established group. For the sake of everyone and your project, avoid implicitly or explicitly creating an in-group/out-group situation and ostracising people. 
-
-**Positivity**: Try to maintain a positive tone about the project, even if you find it challenging. There is a fine line between having a little vent/catharsis and creating an atmosphere of toxic negativity. Some team members might take this to heart more than others and become dispirited about the activity, their abilities, and the completion of the task. If you are feeling frustrated or finding a particular thing challenging, talk to your group and consider seeking advice or support from the teaching team.
-
-**Imposter syndrome**: It does not matter how we might be coping, sometimes it is impossible to avoid feeling like you or your work might not be good enough. If you are anxious about sharing something with your group, seek feedback from someone you trust first for their advice. Do not be afraid to make mistakes. Think about your shared documents as ‘working drafts’. Do not think you have to be anything other than who you are with your group. The pressure of thinking you must pretend to be a “model” student or meet the perceived expectations of others can get in the way of your being able to contribute your unique skills and experience.
-
 ## Stage 1 group work task sharing advice {#stageone-planning}
 
-As you start working in your groups, one key decision will be sharing out the tasks equitably. In the stage 1 report template, there are several sections and sub-sections to complete. For each component, try to summarise the following when you first meet with your group:
+As you start working in your groups, one key decision will be sharing out the tasks equitably. In the stage 1 report template, there are several sections and sub-sections to complete, and there is a lot of hidden ground work that goes into writing those sections. For each component, try to summarise the following when you first meet with your group:
 
 - What information have you already established in that section?
 
@@ -160,7 +138,7 @@ Once you have done that for each section, go through and answer the following qu
 
 Each group member should make an equal contribution, but this does not mean every group member works on every section. Some sections might work better with one person leading and another editing, while other sections might work better with several people leading and editing. 
 
-The introduction is a larger section with fewer clearly segmented tasks, whereas the method is shorter with clearly defined sub-sections. It is important you understand all aspects of the prospect, so we recommend if you work on writing the introduction, you edit or at least proof-read the method, and vice versa. 
+The introduction is a larger section with fewer clearly segmented tasks, whereas the method is shorter with clearly defined sub-sections. It is important you understand all aspects of the project, so we recommend if you work on writing the introduction, you edit or at least proof-read the method, and vice versa. 
 
 For example, you might separate the tasks as: 
 
@@ -176,70 +154,109 @@ For example, you might separate the tasks as:
 
 - **Method design and data analysis**: Sarune and Wil will lead on this section. 
 
-You might choose to separate the tasks differently, but this is one suggestion to work through. We support this [the Planner template for the stage 1 group report](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"}, so we recommend at least starting with this plan and allocate roles, and then adapt as you need. 
+You might choose to separate the tasks differently, but this is one suggestion to work through. For this separation or another approach you agree in your group, question what you know, what you still need to think about, and how you will fill in the blanks. If it helps, you can [download this template](Supporting/Stage One Report Task Sharing.docx) to structure your group discussions. 
 
-For this separation or another approach you agree in your group, question what you know, what you still need to think about, and how you will fill in the blanks:
+## Developing a CRediT statement for your stage 1 report
 
-**Introduction literature review**
+The CRediT (Contributor Roles Taxonomy) was developed to make individual contribution more visible, reduce disagreements over authorship, and encourage fair contribution ([Brand et al., 2015](https://doi.org/10.1087/20150211)). Since then, it has been adopted by a range of academic publishers as a standard way to describe author contributions, such as [Elsevier](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement), [Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/credit.html), and [Taylor and Francis](https://authorservices.taylorandfrancis.com/editorial-policies/credit-at-taylor-francis/). For example, [Stevenson et al. (2025)](https://osotl.org/index.php/osotl/article/view/130) includes lecturers from the School of Psychology and Neuroscience and you can see a CRediT statement before the reference list. 
 
-- What have you already established?
+CRediT provides a structured way of describing the specific roles people take on within a project. Each group member’s contributions should be listed under the appropriate categories, and individuals may appear in more than one role. The group shares responsibility for ensuring that these descriptions are accurate and agreed upon by everyone. 
 
-- What do you still need to think about?
+The CRediT statement should be included on the title page of your report, underneath the list of group members. Each contribution should be identified using student IDs rather than names. This ensures clarity and fairness while keeping the report consistent with submission requirements. 
 
-- How will you fill in the blanks?
+| Term                          | Definition                                                                                                                                                                                                   |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conceptualisation             | Ideas; formulation or evolution of overarching research goals and aims                                                                                                                                       |
+| Methodology                   | Development or design of methodology; creation of models                                                                                                                                                     |
+| Writing - Original draft      | Creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation).                                                                              |
+| Writing - reviewing & editing | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |
+| Project administration        | Management and coordination responsibility for the research activity planning and execution.                                                                                                                 |
 
-**Introduction rationale, research question, and hypothesis**
+**Note**: This table shows the CRediT categories most relevant for the Stage 1 report. Some categories (e.g., Supervision, Funding acquisition) have been removed because they do not apply at this stage. For the full list of CRediT roles, please see the references above. However, if there are other roles in the CRediT taxonomy that are relevant to your Stage 1 report but not included in this table, please feel free to add them.
 
-- What have you already established?
+### Breaking down CRediT roles into specific tasks
 
-- What do you still need to think about?
+The CRediT statement is designed to show how each group member has contributed to the Stage 1 report. To make contributions clearer and fairer, we have adapted the standard CRediT roles into smaller, more specific tasks that reflect the work you are doing at this stage (Introduction and Method section only). Use these granular tasks as a guide when assigning roles, and feel free to adapt them further if it better reflects your group’s work. 
 
-- How will you fill in the blanks?
+**Conceptualisation**
 
-**Method participants**
+- Contributing ideas for the research question or hypothesis   
+- Refining aim(s) or hypothesis   
+- Suggesting relevant literature, theories, or frameworks   
+- Searching for and selecting background literature   
+- Summarising and evaluating relevant research   
+- Collating references into a reference list (APA 7th edition format)
 
-- What have you already established?
+**Methodology**
 
-- What do you still need to think about?
+- Deciding the content for the Participants, Materials, Procedure, or Design and Data Analysis                                                                                     
 
-- How will you fill in the blanks?
+**Writing - Original draft**
 
-**Method materials**
+- Writing the Introduction section (specify component(s) if applicable, such as rationale, hypothesis, etc.)
+- Writing the Method section (specify which component(s) if applicable, such as participants, procedure, etc.)
 
-- What have you already established?
+**Writing - reviewing & editing**
 
-- What do you still need to think about?
+- Reviewing and revising drafts written by group members   
+- Editing for clarity, structure, and flow   
+- Checking APA style and formatting consistency
 
-- How will you fill in the blanks?
+**Project administration**
 
-**Method procedure**
+- Organising meetings and keeping meeting notes   
+- Managing deadlines   
+- Allocating tasks within the group   
+- Submitting the final report
 
-- What have you already established?
+### What will your group do? 
 
-- What do you still need to think about?
+**Step 1. Learn the roles** 
 
-- How will you fill in the blanks?
+- Review the adapted CRediT categories listed above, including the granular tasks (e.g., Conceptualisation – suggesting relevant literature, Methodology – deciding content for participants/procedure/design, Writing – Introduction/Method, Writing – Review & Editing, Project Administration – organising meetings).  
 
-**Method design and data analysis**
+**Step 2. Discuss contributions** 
 
-- What have you already established?
+- Discuss who is responsible for each role, or who has already contributed to the Stage 1 report submission. 
 
-- What do you still need to think about?
+- Be fair and honest. Keep in mind that some members may be listed under more than one role. 
 
-- How will you fill in the blanks?
+**Step 3. Assign roles** 
 
-**Who will lead on each section?**
+- Decide which member, identified by their student ID, should be listed under each chosen role. 
 
-- Introduction literature review:
+**Step 4. Write the CRediT statement** 
 
-- Introduction rationale, research question, and hypothesis:
+- On your title page, include a section titled “CRediT authorship contribution statement”. In the template we provide on Moodle, we have already included a CRediT section for you to complete. 
 
-- Method participants:
+- Write the CRediT statement based on the roles you selected and the contributions of your group members. 
 
-- Method materials:
+### Example of a CRediT statement 
 
-- Method procedure:
+**Example 1** 
 
-- Method design and data analysis:
+ID 12345678: Conceptualisation (literature search and summarising), Methodology (deciding content for Participants and Procedure), Writing – Original Draft (writing the Introduction section), Writing – Review & Editing (editing for clarity, structure, and flow). 
 
-You can either copy and adapt these questions to work on in your own document, copy [the Planner template](https://tasks.office.com/gla.onmicrosoft.com/Home/PlanViews/p_04y5UClU-Hq1qwx0gN65YACpzm?Type=PlanLink&Channel=Link&CreatedTime=638616394371860000){target="_blank"} to your own Microsoft University account, or [download this template](Supporting/Stage One Report Task Sharing.docx) to structure your group discussions. 
+ID 23456789: Writing – Original Draft (writing the Method section), Writing – Review & Editing (checking APA style and formatting consistency).
+
+ID 34567891: Conceptualisation (contributing ideas for the research question or hypothesis), Methodology (deciding the content for the Materials and Design and Data Analysis).
+
+ID 45678912: Writing – Original Draft (writing the Method section – Procedure). 
+
+**Example 2 (with degree of contribution)**
+
+ID 12345678: Conceptualisation (lead: literature search and summarising); Methodology (lead: deciding content for Participants and Procedure); Writing – Original Draft (equal: writing the Introduction section); Writing – Review & Editing (equal: editing for clarity, structure, and flow). 
+
+ID 23456789: Writing – Original Draft (lead: writing the Method section); Writing – Review & Editing (equal: checking APA style and formatting consistency).
+
+ID 34567891: Conceptualisation (supporting: contributing ideas for the research question/hypothesis); Methodology (supporting: deciding content for the Materials, Design, and Data Analysis).
+
+ID 45678912: Writing – Original Draft (equal: writing the Method section – Procedure). 
+
+**Notes on levels of contribution**: The levels of contribution (Lead, Equal, Supporting) are only suggestions to help you decide how to describe your group’s work. Use them if they are useful for clarifying contributions, but you do not have to apply them to every task. 
+
+- Lead: You took primary responsibility for this role or task. 
+
+- Equal: You shared responsibility equally with one or more group members. 
+
+- Supporting: You contributed but another group member had primary responsibility.  
