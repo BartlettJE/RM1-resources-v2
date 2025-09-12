@@ -125,44 +125,51 @@ To support you in understanding what plagiarism is and in avoiding it, please re
 
 - [SRC Advice and Support](https://www.glasgowunisrc.org/advice/){target="_blank"}.
 
-- [Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2024-25/feesandgeneral/studentsupportandconductmatters/reg33/){target="_blank"} and [Plagiarism Statement](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2024-25/feesandgeneral/studentsupportandconductmatters/reg32/){target="_blank"}.
+- [Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg33/){target="_blank"} and [Plagiarism & Academic Integrity Code](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg32/){target="_blank"}.
 
 - [Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/enrol/index.php?id=13038){target="_blank"} (a Moodle course you can self-enrol in).
 
 - [Student support for AI, plagiarism, and digital skills ](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}.
 
+**In summary**:
+
+All work submitted by students for an assessment is accepted on the understanding that it is the student's own effort. This means students’ work should not contain:
+
+- plagiarised content; or
+
+- content that has been produced by another person, website, software or Artificial intelligence (AI) tool (except where AI use is explicitly permitted); or
+
+- content that has been prepared jointly with any other person (except where this is explicitly permitted); or
+
+- content that has already been submitted for assessment by the student at this or any other institution, known as self-plagiarism.
+
 **Statement on groupwork**: This is a group assignment and one person from the group should be nominated to submit the draft and final version of the assignment on Moodle. Your group’s work should not be exactly the same as that of another group in the class, however, as you worked closely in a larger group and from common templates, we know that there may be some unavoidable similarities between team members in the method and results, but it should never be identical or close to identical.
 
-## AI statement
+## AI Statement
 
-The University of Glasgow recognises the value of generative artificial intelligence tools in academic and professional workplaces. The university has a responsibility to ensure that students acquire the necessary knowledge, skills and other competencies associated within their discipline. The [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/ai/students/){target="_blank"} service provides general guidance and support for students on the use of generative AI, but each item of assessment in your courses will have specific generative AI guidance about use and misuse in place. Where generative AI restrictions are in place, they have been carefully designed to maximise your learning opportunity whilst discouraging reliance on generative AI in a way that undermines your learning, or development of good professional practice and graduate attributes.
+**University statement on AI**: The University of Glasgow recognises the value of generative artificial intelligence (AI) tools in academic and professional workplaces. The university has a responsibility to ensure that students acquire the necessary knowledge, skills, and other competencies associated within their discipline. The The [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/ai/students/){target="_blank"} service provides general guidance and support for students on the use of generative AI. Each item of assessment in your courses will have specific guidance about the use of AI. Where generative AI restrictions are in place, they have been carefully designed to maximise your learning opportunity whilst discouraging reliance on generative AI in a way that undermines your learning or development of good professional practice and graduate attributes.
 
-**Statement on use of generative AI**: The current assessment is summative, meaning that it contributes to your course grade. The generative AI use for this assessment is categorised as **amber** and use of generative AI is allowed for some tasks during the preparation of the assessment.
+**School statement on AI**: The School of Psychology and Neuroscience recognises that students may choose to explore the use of AI to assist in learning and assessment. We have a responsibility to guide students in the ethical and effective use of AI tools in order to protect their ability to develop subject-specific skills and knowledge. For this reason, we expect that students will:
 
-There is no expectation that you will use generative AI and we have no evidence that its use will confer an advantage for this assessment. If you do use generative AI, please clearly acknowledge its use in-text via citations and referencing and in an appendix with a declaration of AI use as appropriate – please see the title page on Moodle for further instructions. If you choose to use it, we recommend that you use the Microsoft Edge browser with Copilot and sign into your university account using the two-factor authentication to ensure that your work is private and secure. Please keep a log of all AI use.
+- Be mindful and transparent about their use of AI, and confident to declare their use of AI so that we can give effective feedback. 
 
-The purpose of this assessment is to work on your quantitative research methods skills and your understanding of a research project from developing a research question to writing an APA-formatted report. This is a group assignment to collectively write an introduction and methods to scaffold learning, but you will write whole reports in RM2 and your dissertation. Any short-cuts you take now will have a knock-on effect in future. So, try and embrace the skill development component to the course and assessment. 
+- Respect our guidance on recommended and not recommended use of AI to safeguard their ability to develop as psychologists or neuroscientists.
 
-If you do use generative AI tools, we recommend using it for the following (non-exhaustive) kind of tasks: 
+- Be aware of the risks of using AI (to the environment and to the corpus of human knowledge) and so minimise its use.
 
-- Clarify complex concepts and reinforce understanding around intended learning outcomes.
+- Take personal responsibility for all work they submit for assessment. 
 
-- Plan a structure for your assessment.
+**Statement on use of generative AI**: The current assessment is **summative**, meaning that it contributes to your course grade.  The purpose of this assessment is to provide an opportunity to develop your writing and communication. You can use AI as a learning assistant to help understand lecture content, to give feedback on your work, and to help in finding spelling and grammatical errors. If you want to use translation software (i.e., you write the assignment in another language first) be cautious as the vocabulary and syntax produced by generative AI is not generally in keeping with the current language use and vocabulary in our field and can result in subtle misunderstanding in communication.
 
-- Recommend keywords and other tips for effective literature searches.
+Avoid using AI to draft your assignment or structure your work, as these are
+specialist skills that you need to practice. Avoid using AI to make your citations or reference section, as there is a risk that it will fabricate information.
 
-- Assist with referencing format.
+There is no expectation that you will use generative AI, and we have no evidence that its use will confer an advantage for this assessment. If you do use generative AI, you **must** acknowledge use in-text via citations and referencing and in an appendix with a declaration of AI use as appropriate. If you choose to use it, we recommend that you use the Microsoft Edge Browser with Copilot and sign in with your university account using the multi-factor authentication to ensure that your work is private and secure. **Please keep a log of your use of AI as we may ask to see this**.
 
-If you do use generative AI tools, we strongly recommend **not** using it for the following (non-exhaustive) kind of tasks: 
-
-- Conducting your whole literature review for you, as you may miss out on potentially useful sources and AI tools are notorious for making up references.
-
-- Write whole paragraphs or sections of your report for you. 
-
-- Rewrite bulleted lists or notes into sentences and paragraphs.
+For this assignment, we will consider it a misuse of generative AI if you do not acknowledge using it. Declare all uses of AI, including initial exploration of the subject, literature searching, writing and editing, corrections for grammar and spelling, as well as any other tasks from the course. Be aware that AI may not represent the best response for this task, and you need to take responsibility for everything that is submitted.
 
 ::: {.callout-warning}
-The references you use and cite in your work are your responsibility, regardless of whether you use generative AI tools or not. Assessments containing hallucinated references that do not exist in peer-reviewed journals may be subject to exploratory interviews and reporting to student conduct.
+The references you use and cite in your work are your responsibility, regardless of whether you use generative AI tools or not. Assessments containing hallucinated references that do not exist in peer-reviewed journals may be reported to student conduct.
 :::
 
 ## Feedback information {#stage1-FIS}
