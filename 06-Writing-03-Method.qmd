@@ -30,15 +30,15 @@ As you read more journal articles, you might notice some additional sub-sections
 
 Keep in mind you are writing a registered report, so there will be some details you will not know that you see included in a traditional report. For example, you will not know the final sample size, nor will you know precisely how you analysed the data. You can only report how you designed the study to constrain researcher degrees of freedom, not what the end product is. 
 
-One element that might feel a little odd is you write the method section in past tense - describing how you *planned* your study - even when you have not conducted it yet. We do this as a published final registered report includes all the sections with the method and results in the middle, so it is presented as one longer piece of work for how you designed your study and then what results you found. We are retaining the style, even though you will submit the stage one and stage two report separately. 
+One element that might feel a little odd is you typically write the method section in past tense - describing how you *planned* your study - even when you have not conducted it yet. We do this as a published final registered report includes all the sections with the method and results in the middle, so it is presented as one longer piece of work for how you designed your study and then what results you found. We recommend retaining that style as we are helping you to prepare for writing a full research report, but for a Stage 1 submission, it would be acceptable to write in future tense for a study you have planned but not conducted yet. The important thing is being consistent in the approach you take and not switching between past and future tense. 
 
-To see how the framing changes between a stage one and stage two report, you might find it useful to read the method section (pages 2 and 3) of [*Registered Replication Report: Testing Disruptive Effects of Irrelevant Speech on Visual-Spatial Working Memory*](https://jeps.efpsa.org/articles/10.5334/jeps.450){target="_blank"} by Kvetnaya (2018). If you compare that to Kvetnaya's original [stage one version online](https://osf.io/j4475){target="_blank"}, you can see how she framed the planned sample before the wording changed in the final article. Reinforcing our warning above, you will also notice the sub-sections in Kvetnaya (2018) are slightly different to what we recommend. 
+To see how the framing changes between a Stage 1 and Stage 2 report, you might find it useful to read the method section (pages 2 and 3) of [*Registered Replication Report: Testing Disruptive Effects of Irrelevant Speech on Visual-Spatial Working Memory*](https://jeps.efpsa.org/articles/10.5334/jeps.450){target="_blank"} by Kvetnaya (2018). If you compare that to Kvetnaya's original [stage one version online](https://osf.io/j4475){target="_blank"}, you can see how she framed the planned sample before the wording changed in the final article. Reinforcing our warning above, you will also notice the sub-sections in Kvetnaya (2018) are slightly different to what we recommend. 
 
 As we work through the sections, try and identify all the different decisions you and your group will need to make. Ask yourself whether you know the information yet, or whether it's something you still need to find out. Then, consider how you will justify the decision using supporting evidence where applicable. 
 
 ## Participants
 
-Normally, this would appear first in the method. The aim here is to explain who your sample were (or your planned sample in this scenario and how you recruited them. You would normally include elements such as:
+Normally, this would appear first in the method. The aim here is to explain who your sample were (or your planned sample in this scenario) and how you recruited them. You would normally include elements such as:
 
 -   Method of recruitment
 
@@ -88,25 +88,23 @@ You would normally include aspects such as:
 
     -   Again, think about what is relevant. Focus on detailing the demographics you are using for the analysis. If you are not using a demographic variable, then keep this just as a broad overview of the types of question you ask participants.
 
--   Motivated Strategies for Learning Questionnaire (MSLQ)
+-   Any published, validated scales you gave to participants. 
 
-    -   You should describe the full MSLQ and state which subscale/s you will use data from.
+    -   You should describe the overall purpose behind the scale and what construct it is trying to measure. 
+    
+    - State which subscale/s you will use data from if you are not using the whole thing. Remember from the measurement lecture though, it is not usually a good idea to chop validated scales up but you can use specific sub-scales if the others are less relevant. 
 
-    -   You do not have to list all the subscales but give an overview of the general purpose of the questionnaire and then focus on the subscale(s) you are using and what construct they measure.
-
-    -   The MSLQ should have an APA citation (available in the MSLQ overview document).
+    -   The scale should have an APA citation and entry in the reference list to acknowledge it's source.
 
     -   Explain details like how many questions there were in total and how many questions are in your relevant subscale/s.
 
     -   What were the response options for the subscale/s?
 
-    -   For example: "The help-seeking subscale is made up of 5 questions such as "example question" and "example question", with potential responses on a 5-point Likert scale where 1 means .. and 5 means.."
+    -   For example: "The help-seeking subscale is made up of 5 questions such as "example question" and "example question", with potential responses on a 5-point Likert scale where 1 means... and 5 means..."
 
--   You should also cite the software you (from your perspective as the researcher) used to host the questionnaire.
+- If your materials do not come from a validated scale, you need to explain and provide examples of what they looked like for participants. Depending on the length, you might provide a short extract or example, with the full materials available as an appendix item. 
 
-    -   For example: "We collected data using the platform Experimentum (DeBruine et al., 2020)..."
-
-    -   DeBruine, L., Lai, R., Jones, B., Abdullah, R., & Mahrholz, G. (2020). Experimentum (Version v.0.2). Zenodo. doi:10.5281/zenodo.2634355
+-   You should also mention the software you (from your perspective as the researcher) used to host the study. For example, we used Qualtrics to host the two project studies. 
 
 ## Procedure
 
@@ -114,19 +112,19 @@ The procedure details what happened in the study. This section normally comes af
 
 The main point to keep in mind when writing this section is to think about reproducibility. After reading this sub-section, a reader should be able to reproduce your study exactly, based on what you have written in the materials and procedure.
 
-For studies like this, you often only need one paragraph to explain the procedure, but it does not necessarily need to be if it makes more sense to break things up. However, try and avoid your writing becoming too granular by using one sentence paragraphs or bullet points.
+For studies like the RM1 projects, you often only need one paragraph to explain the procedure, but it does not necessarily need to be if it makes more sense to break things up. However, try and avoid your writing becoming too granular by using one sentence paragraphs or bullet points.
 
 You would normally include aspects such as:
 
 -   What the participants did in the study, what order they did things in, how the study looked to them, and roughly how long it took them to complete.
 
--   Try to think about how the participant accessed the study. Remember you can watch the screencast on Moodle to remind yourself of any details of how participants worked through the study.
+-   Try to think about how the participant accessed the study. Remember you can access the materials on Moodle to remind yourself of any details of how participants worked through the study.
 
 -   The procedure is typically where you outline the ethics processes, such as reading the information sheet and providing consent at the start, and reading the debrief at the end. You do not need to explain what information these documents contain, just when they read them and how the participants interacted with them. 
 
 -   You can include the colour of font and background colour.
 
--   You explain the order participants completed the materials: did they do the demographics and then the MSLQ, or vice versa? Did all participants complete the materials in the same order or was there any randomisation?
+-   You explain the order participants completed the materials: did they do the demographics and then the scales, or vice versa? Did all participants complete the materials in the same order or was there any randomisation?
 
 -   Were all the questions on one screen or did participants see one question at a time?
 
@@ -134,7 +132,7 @@ You would normally include aspects such as:
 
 -   Did participants have a time limit to respond by or could they take as long as they want? What could participants do if they did not want to respond to a question?
 
-If you find you are repeating a lot of information from the materials, then there is a good chance you are mixing up what information goes where. Remember: the procedure is about what participants saw and did, and how the study was presented to them. The main goal here is to find a balance between providing enough detail for someone to replicate your study without taking up too much of the word count better spent elsewhere.
+If you find you are repeating a lot of information from the materials, then there is a good chance you are mixing up what information goes where. Remember: the materials is what you provided to participants, and the procedure is what order they received the materials in. The main goal here is to find a balance between providing enough detail for someone to replicate your study without taking up too much of the word count better spent elsewhere.
 
 For example, you could reduce: "**Participants saw an advert on social media and then they clicked on the link and then they read the consent form and then if they decided they wanted to do the study they consented and then they started answering the questions**" 
 
@@ -160,11 +158,7 @@ You would normally include details such as:
 
     -   If you are interested in a relationship/association, then it's better to talk about measured variables as there is no independent and dependent variable in a correlational design.
 
-    -   Remember to be precise. You are testing the mean score on a subscale of the MSLQ, it is not just something like self-efficacy as an abstract concept. 
-
 -   Where applicable, state the independent variable and it's levels (conditions or groups depending on your design) 
-
-    -   You can clarify it is a quasi-experimental variable in this study since they were only self-selecting groups.
 
 -   You could report a power analysis here to outline how many participants you estimates you need to detect your smallest effect size of interest. However, because of the structure of the course and how we must cover all the key concepts, we do **not** consider it essential for this report. Alternatively, you could report it at the start of your results section. If you and your group do attempt a power analysis, think about: 
 
