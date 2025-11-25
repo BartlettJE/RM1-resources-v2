@@ -74,6 +74,7 @@ book:
       - 06-Writing-09-Results2.qmd
       - 06-Writing-10-Discussion1.qmd
       - 06-Writing-11-Abstracts.qmd
+      - 06-Writing-12-Codereview.qmd
   - 07-References.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
