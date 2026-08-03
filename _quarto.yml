@@ -7,7 +7,7 @@ lightbox: true
 execute:
   freeze: auto
 book:
-  title: MSc Research Methods 1 Course Information
+  title: Writing Research Reports
   subtitle: ''
   author:
   - orcid: 0000-0002-4191-5245
@@ -24,12 +24,12 @@ book:
       given: Thinh
   doi: ''
   license: CC-BY
-  description: Key course information for the MSc Research Methods 1 course.
+  description: Resources for writing a research report, structured around the major sections of an APA-formatted report.
   cover-image: images/logos/logo.png
   image: images/logos/logo.png
   favicon: images/logos/logo.png
   cookie-consent: false
-  google-analytics: ''
+  google-analytics: 'G-6NP3MF25W3'
   page-navigation: true
   search: true
   sidebar:
@@ -47,34 +47,30 @@ book:
     header: ''
     footer: ''
   margin-header: ''
-  page-footer: CC-BY (2024) Bartlett, Paterson, & Pham
+  page-footer: CC-BY (2026) Bartlett, Paterson, & Pham
   chapters:
   - index.qmd
-  - 01-Course_overview.qmd
-  - 02-Resources.qmd
-  - 03-Employability.qmd
-  - part: "Assessment and Feedback Information"
-    chapters:
-      - 04-AIS-01-groupagreement.qmd
-      - 04-AIS-02-MCQ.qmd
-      - 04-AIS-03-dataskills.qmd
-      - 04-AIS-04-stage1.qmd
-      - 04-AIS-05-stage2.qmd
-      - 04-AIS-06-Projects.qmd
-  - part: "Research and Writing Skills"
+  - part: "Introduction"
     chapters:
       - 06-Writing-01-Reading.qmd
       - 06-Writing-02-Rationale.qmd
+      - 06-Writing-07-Writing.qmd
+  - part: "Method"
+    chapters:
       - 06-Writing-03-Method.qmd
       - 06-Writing-04-Qualtrics.qmd
       - 06-Writing-05-power.qmd
+  - part: "Results"
+    chapters:
       - 06-Writing-06-NHST.qmd
-      - 06-Writing-07-Writing.qmd
       - 06-Writing-08-Results1.qmd
       - 06-Writing-09-Results2.qmd
-      - 06-Writing-10-Discussion1.qmd
-      - 06-Writing-11-Abstracts.qmd
       - 06-Writing-12-Codereview.qmd
+  - part: "Discussion"
+    chapters:
+      - 06-Writing-10-Discussion1.qmd
+      - 06-Writing-11-Limitations.qmd
+      - 06-Writing-12-Abstracts.qmd
   - 07-References.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
