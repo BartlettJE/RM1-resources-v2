@@ -14,11 +14,11 @@ book:
     name:
       family: Bartlett
       given: James
-  - orcid: 0000-0002-4191-5245
+  - orcid: 0000-0001-7715-5973
     name:
       family: Paterson
       given: Helena
-  - orcid: 0000-0002-4191-5245
+  - orcid: 0000-0002-2237-5087
     name:
       family: Pham
       given: Thinh
@@ -52,26 +52,27 @@ book:
   - index.qmd
   - part: "Introduction"
     chapters:
-      - 06-Writing-01-Reading.qmd
-      - 06-Writing-02-Rationale.qmd
-      - 06-Writing-07-Writing.qmd
+      - 01-Finding.qmd
+      - 02-Reading.qmd
+      - 03-Rationale.qmd
+      - 04-Writing.qmd
   - part: "Method"
     chapters:
-      - 06-Writing-03-Method.qmd
-      - 06-Writing-04-Qualtrics.qmd
-      - 06-Writing-05-power.qmd
+      - 05-Method.qmd
+      - 06-Qualtrics.qmd
+      - 07-Power.qmd
   - part: "Results"
     chapters:
-      - 06-Writing-06-NHST.qmd
-      - 06-Writing-08-Results1.qmd
-      - 06-Writing-09-Results2.qmd
-      - 06-Writing-12-Codereview.qmd
+      - 08-Results.qmd
+      - 09-Visualisation.qmd
+      - 10-NHST.qmd
+      - 11-Codereview.qmd
   - part: "Discussion"
     chapters:
-      - 06-Writing-10-Discussion1.qmd
-      - 06-Writing-11-Limitations.qmd
-      - 06-Writing-12-Abstracts.qmd
-  - 07-References.qmd
+      - 12-Discussion.qmd
+      - 13-Limitations.qmd
+      - 14-Abstracts.qmd
+  - 15-References.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
